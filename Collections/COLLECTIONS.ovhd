@@ -2,18 +2,21 @@
 
 <dir>
 <name>Austin Powers Collection</name>
+<imdb></imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Collections/Austin%20Powers%20Collection.ovhd</link>
 </dir>
 
 
 <dir>
 <name>The Godfather Collection</name>
+<imdb></imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Collections/Godfather%20Collection.ovhd</link>
 </dir>
 
 
 <dir>
 <name>The Terminator Collection</name>
+<imdb></imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Collections/Terminator%20Collection.ovhd</link>
 </dir>
 
