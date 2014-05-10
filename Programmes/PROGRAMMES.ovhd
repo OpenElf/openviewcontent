@@ -72,11 +72,6 @@
 </dir>
 
 
-<dir>
-<name>Carnivale</name>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/Carnivale.ovhd</link>
-</dir>
-
 
 <dir>
 <name>Da Vinci's Demons</name>
@@ -145,7 +140,7 @@
 
 
 <dir>
-<name>House Of Cards</name>
+<name>House Of Cards (2013)</name>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/House Of Cards.ovhd</link>
 </dir>
 
@@ -155,11 +150,6 @@
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/House Of Lies.ovhd</link>
 </dir>
 
-
-<dir>
-<name>Latest </name>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/Latest Shows</link>
-</dir>
 
 
 <dir>
@@ -201,12 +191,6 @@
 <dir>
 <name>Prison Break</name>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/Prison Break.ovhd</link>
-</dir>
-
-
-<dir>
-<name>PROGRAMMES</name>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/PROGRAMMES.ovhd</link>
 </dir>
 
 
@@ -336,11 +320,6 @@
 </dir>
 
 
-<dir>
-<name>TV </name>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/TV SHOWS</link>
-</dir>
-
 
 <dir>
 <name>Under The Dome</name>
@@ -373,7 +352,7 @@
 
 
 <dir>
-<name>WitchesofEastend</name>
+<name>Witches of Eastend</name>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/WitchesofEastend.ovhd</link>
 </dir>
 
