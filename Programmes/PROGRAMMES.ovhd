@@ -1,49 +1,8 @@
+################################################################################
 
+OVHD Source File - PROGRAMMES.ovhd
 
-<dir>
-<name>2 Broke Girls</name>
-<imdb>tt1845307</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/2 Broke Girls.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
-
-
-<dir>
-<name>Agents of S.H.I.E.L.D.</name>
-<imdb>tt2364582</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/Agents Of Shield.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
-
-
-<dir>
-<name>Almost Human</name>
-<imdb></imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/Almost Human.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
-
-
-<dir>
-<name>American Horror Story</name>
-<imdb></imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/American Horror Story.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
-
-
-<dir>
-<name>Banshee</name>
-<imdb></imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/Banshee.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
-
+################################################################################
 
 <dir>
 <name>Bates Motel</name>
