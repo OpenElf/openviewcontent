@@ -3,13 +3,15 @@
 OVHD Source File - Davinci.ovhd
 
 ################################################################################
-<dir>
-<name>Season 1 Content</name>
+
+
+<item>
+<title>Season 1 Content</title>
 <imdb></imdb>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
+<link>http://www.putlocker.com/file/B3F2EB9B407A8252</link>
+</item>
+
+
 
 
 <item>
@@ -60,13 +62,13 @@ OVHD Source File - Davinci.ovhd
 <link>http://www.putlocker.com/file/87714FA801BF1441</link>
 </item>
 
-<dir>
-<name>Season 2 Content</name>
+
+
+<item>
+<title>Season 2 Content</title>
 <imdb></imdb>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
+<link>http://www.putlocker.com/file/B3F2EB9B407A8252</link>
+</item>
 
 <item>
 <title>Davinci S02E01</title>
