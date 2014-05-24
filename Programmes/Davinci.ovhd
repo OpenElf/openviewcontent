@@ -3,11 +3,14 @@
 OVHD Source File - Davinci.ovhd
 
 ################################################################################
-<item>
-<title>Season 1</title>
-<imdb></imdb>
-<link>http://www.putlocker.com/file/B3F2EB9B407A8252</link>
-</item>
+<dir>
+<name>Season 1</name>
+<imdb>tt2094262</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/Davinci.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
 
 <item>
 <title>Davinci S01E01</title>
