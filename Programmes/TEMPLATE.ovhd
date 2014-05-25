@@ -1,0 +1,19 @@
+################################################################################
+
+OVHD Source File - TEMPLATE.ovhd
+
+################################################################################
+
+<item>
+<title></title>
+<imdb></imdb>
+<link></link>
+</item>
+
+##### content seperator
+
+<item>
+<title>Season 1 Content</title>
+<imdb></imdb>
+<link>http://</link>
+</item>
