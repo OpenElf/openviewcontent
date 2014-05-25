@@ -7,6 +7,14 @@ OVHD Source File - PROGRAMMES.ovhd
 <dir>
 <name>Bates Motel</name>
 <imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/American Horror Story.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Bates Motel</name>
+<imdb></imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/Bates.ovhd</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
