@@ -37,3 +37,11 @@ OVHD Source File - PROGRAMMES.ovhd
 <fanart></fanart>
 </dir>
 
+<dir>
+<name>Keeping Up with the Kardashians</name>
+<imdb>tt1086761</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/kardashians.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
