@@ -20,6 +20,13 @@ OVHD Source File - COLLECTIONS.ovhd
 <fanart>http://image.tmdb.org/t/p/original/6c6UBDukRgEA4MnUqxHf4UMCvJK.jpg</fanart>
 </dir>
 
+<dir>
+<name>The Chronicles of Narnia Collection</name>
+<imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Collections/Narnia%20Collection.ovhd</link>
+<thumbnail>http://image.tmdb.org/t/p/original/ju5DqYM1jJbZPL5Q105ivuq8MXa.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/3dPVWuhk0MpnDkxUeNcYvUmsRTK.jpg</fanart>
+</dir>
 
 <dir>
 <name>The Godfather Collection</name>
