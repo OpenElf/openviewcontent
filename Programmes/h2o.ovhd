@@ -3,14 +3,10 @@
 OVHD Source File - h2o.ovhd
 
 ################################################################################
-<item>
-<title>Trailer Season 1 (2006) Content</title>
-<imdb></imdb>
-<link>http://www.youtube.com/watch?v=m0mc_mYNuzo</link>
-</item>
+
 
 <dir>
-<name>H2O: Just Add Water Season 1</name>
+<name>H2O: Just Add Water Season 1 Collection</name>
 <imdb>tt0491603</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/h2o_season1.ovhd</link>
 <thumbnail>http://image.tmdb.org/t/p/original/a722PUyS4TGJWF3dcF7j72fv6bi.jpg</thumbnail>
@@ -18,7 +14,7 @@ OVHD Source File - h2o.ovhd
 </dir>
 
 <dir>
-<name>H2O: Just Add Water Season 2</name>
+<name>H2O: Just Add Water Season 2 Collection</name>
 <imdb>tt0491603</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/h2o_season2.ovhd</link>
 <thumbnail>http://image.tmdb.org/t/p/original/ira25bfHINyQR88hhanhstQd63N.jpg</thumbnail>
@@ -26,7 +22,7 @@ OVHD Source File - h2o.ovhd
 </dir>
 
 <dir>
-<name>H2O: Just Add Water Season 3</name>
+<name>H2O: Just Add Water Season 3 Collection</name>
 <imdb>tt0491603</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/h2o_season3.ovhd</link>
 <thumbnail>http://image.tmdb.org/t/p/original/iWlqeHpEBn6RCvYvdFGXBiR56m.jpg</thumbnail>
