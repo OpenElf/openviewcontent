@@ -9,73 +9,28 @@ OVHD Source File - h2o.ovhd
 <link>http://www.youtube.com/watch?v=m0mc_mYNuzo</link>
 </item>
 
+<dir>
+<name>H2O: Just Add Water Season 1</name>
+<imdb>tt0491603</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/h2o_season1.ovhd</link>
+<thumbnail>http://image.tmdb.org/t/p/original/a722PUyS4TGJWF3dcF7j72fv6bi.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/fAPr7gW9mtMppRVI7rGwdvAY8fD.jpg</fanart>
+</dir>
 
+<dir>
+<name>H2O: Just Add Water Season 2</name>
+<imdb>tt0491603</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/h2o_season2.ovhd</link>
+<thumbnail>http://image.tmdb.org/t/p/original/ira25bfHINyQR88hhanhstQd63N.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/4bQf49SXkPL71CQgtx1HqiJKRZq.jpg</fanart>
+</dir>
 
-<item>
-<title>H2O: Just Add Water S01E01</title>
-<imdb></imdb>
-<link>http://movpod.in/72rbwk3zej2o</link>
-</item>
-
-<item>
-<title>H2O: Just Add Water S01E01</title>
-<imdb></imdb>
-<link>http://movpod.in/frsd3xib06gv</link>
-</item>
-
-<item>
-<title>H2O: Just Add Water S01E01</title>
-<imdb></imdb>
-<link>http://gorillavid.in/vdmbqsr6ybuh</link>
-</item>
-
-<item>
-<title>H2O: Just Add Water S01E01</title>
-<imdb></imdb>
-<link>http://filenuke.com/755zeqjd107e</link>
-</item>
-
-<item>
-<title>H2O: Just Add Water S01E01</title>
-<imdb></imdb>
-<link></link>
-</item>
-
-
-
-
-<item>
-<title>Trailer Season 2 (2007) Content</title>
-<imdb></imdb>
-<link>http://www.youtube.com/watch?v=kazVmfYI7cM</link>
-</item>
-
-<item>
-<title>H2O: Just Add Water S02E01</title>
-<imdb></imdb>
-<link>http://www.vidbull.com/2d5dwnd8vtod</link>
-</item>
-
-
-<item>
-<title>Trailer Season 3 (2009) Content</title>
-<imdb></imdb>
-<link>http://www.youtube.com/watch?v=z1oe-WjanSw</link>
-</item>
-
-<item>
-<title>H2O: Just Add Water S03E01</title>
-<imdb></imdb>
-<link>http://movpod.in/8m5g4hkdyvfc</link>
-</item>
-
-<item>
-<title>H2O: Just Add Water S03E17</title>
-<imdb></imdb>
-<link>http://www.dailymotion.com/video/x169srw_h2o-just-add-water-season-3-episode-17_shortfilms</link>
-</item>
-
-
-
+<dir>
+<name>H2O: Just Add Water Season 3</name>
+<imdb>tt0491603</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/h2o_season3.ovhd</link>
+<thumbnail>http://image.tmdb.org/t/p/original/iWlqeHpEBn6RCvYvdFGXBiR56m.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/ou9Y9EoV3bmyeKoxyXpgUBMbafU.jpg</fanart>
+</dir>
 
 
