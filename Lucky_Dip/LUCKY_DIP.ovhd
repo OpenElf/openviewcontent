@@ -3,11 +3,15 @@
 OVHD Source File - LUCKY_DIP.ovhd
 
 ################################################################################
-<item>
-<title>Wednesday 11th June Content</title>
+
+
+<dir>
+<name>Wednesday 11th June Content</name>
 <imdb></imdb>
 <link>nil</link>
-</item>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>http://wallpoper.com/images/00/45/09/69/fresh-lemon_00450969.jpg</fanart>
+</dir>
 
 <item>
 <title>Fargo S01E09</title>
@@ -26,6 +30,14 @@ OVHD Source File - LUCKY_DIP.ovhd
 <imdb>tt1490017</imdb>
 <link>http://billionuploads.com/n8myihy3masn/Non.Stop.2014.1080p.BluRay.x264.YIFY.mp4</link>
 </item>
+
+<dir>
+<name>Monday 9th June Content</name>
+<imdb></imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>http://www.kucuu.com/desktop-wallpaper-home/red-Juicy-fruits-wallpapers-1920x1080.jpg</fanart>
+</dir>
 
 <item>
 <title>Monday 9th June Content</title>
