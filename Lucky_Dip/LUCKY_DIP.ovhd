@@ -4,6 +4,12 @@ OVHD Source File - LUCKY_DIP.ovhd
 
 ################################################################################
 
+<item>
+<title>**** HD items may not work during peak internet times, use SD items ***** Content</title>
+<imdb></imdb>
+<link>nil</link>
+</item>
+
 
 <item>
 <title>Wednesday 11th June Content</title>
@@ -12,15 +18,21 @@ OVHD Source File - LUCKY_DIP.ovhd
 </item>
 
 <item>
-<title>Fargo S01E09</title>
+<title>Fargo HD S01E09</title>
 <imdb>tt2802850</imdb>
 <link>http://billionuploads.com/7p37tk5c6wyb</link>
 </item>
 
 <item>
-<title>I Wanna Marry 'Harry' S01E04</title>
+<title>I Wanna Marry 'Harry' HD S01E04</title>
 <imdb>tt3181412</imdb>
 <link>http://billionuploads.com/1kz8ejuvso23</link>
+</item>
+
+<item>
+<title>I Wanna Marry 'Harry' SD S01E04</title>
+<imdb>tt3181412</imdb>
+<link></link>
 </item>
 
 <item>
@@ -37,12 +49,16 @@ OVHD Source File - LUCKY_DIP.ovhd
 
 
 <item>
-<title>Kardashians S09E08</title>
+<title>Kardashians HD S09E08</title>
 <imdb>tt1086761</imdb>
 <link>http://billionuploads.com/pr0zj8aubkbk</link>
 </item>
 
-
+<item>
+<title>Kardashians SD S09E08</title>
+<imdb>tt1086761</imdb>
+<link>http://billionuploads.com/pr0zj8aubkbk</link>
+</item>
 
 
 
