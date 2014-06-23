@@ -3,6 +3,12 @@
 OVHD Source File - tuesday.ovhd
 
 ################################################################################
+<message>
+<sendseqnum>1</sendseqnum>
+<line1>[COLOR yellow]NICKY NACKY NOOH I LOVE YOU XXX[/COLOR]</line1>
+<line2>[COLOR lime]LULU, SIR PETER AND BABA I LOVE YOU XXX[/COLOR]</line2>
+<line3>NO UPDATES TODAY MY LITTLE CHIMPS XXX</line3>
+</message>
 
 <item>
 <title>**** HD items may not work during peak internet times, use SD items ***** Content</title>
@@ -11,7 +17,7 @@ OVHD Source File - tuesday.ovhd
 </item>
 
 <item>
-<title>Banana Tuesday 10th June Content</title>
+<title>Banana Tuesday 24th June Content</title>
 <imdb></imdb>
 <link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1311/Yellow-fruit-banana_1920x1080.jpg</link>
 </item>
