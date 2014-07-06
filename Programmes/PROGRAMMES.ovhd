@@ -5,6 +5,14 @@ OVHD Source File - PROGRAMMES.ovhd
 ################################################################################
 
 <dir>
+<name>Almost Royal</name>
+<imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/almost_royal.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>American Horror Story</name>
 <imdb></imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/AHS.ovhd</link>
