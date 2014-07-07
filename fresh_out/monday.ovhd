@@ -3,6 +3,31 @@
 OVHD Source File - monday.ovhd
 
 ################################################################################
+<dir>
+<name>Devious Maids</name>
+<imdb>tt2226342</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/devious_maids.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Keeping Up with the Kardashians</name>
+<imdb>tt1086761</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/kardashians.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Witches of East End</name>
+<imdb>tt2288064</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/fresh_out/monday.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+
 
 
 <item>

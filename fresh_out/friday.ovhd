@@ -3,6 +3,30 @@
 OVHD Source File - friday.ovhd
 
 ################################################################################
+<dir>
+<name>Black Box</name>
+<imdb>tt2968404</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/black_box.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Catfish</name>
+<imdb>tt2968404</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/friday.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Impractical Jokers</name>
+<imdb>tt2100976</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/friday.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir
+
 
 <item>
 <title>**** HD items may not work during peak internet times, use SD items ***** Content</title>

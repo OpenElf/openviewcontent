@@ -3,6 +3,30 @@
 OVHD Source File - saturday.ovhd
 
 ################################################################################
+<dir>
+<name>Dominion</name>
+<imdb>tt3079768</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/saturday.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Friday Night Dinner</name>
+<imdb>tt1844923</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/friday_night_dinner.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Old School</name>
+<imdb>tt3164100</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/old_school.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
 
 <item>
 <title>**** HD items may not work during peak internet times, use SD items ***** Content</title>

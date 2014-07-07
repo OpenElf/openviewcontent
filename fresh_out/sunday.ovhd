@@ -3,6 +3,14 @@
 OVHD Source File - sunday.ovhd
 
 ################################################################################
+<dir>
+<name>Almost Royal</name>
+<imdb>tt3727552</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/almost_royal.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
 
 <item>
 <title>**** HD items may not work during peak internet times, use SD items ***** Content</title>
@@ -62,18 +70,7 @@ OVHD Source File - sunday.ovhd
 </item>
 
 
-<item>
-<title>Sundae Sunday 22nd June Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.mrwallpaper.com/wallpapers/Fruit-Salad-1920x1080.jpg</link>
-</item>
 
-
-<item>
-<title>Orphan Black SD S02E10</title>
-<imdb>tt2234222</imdb>
-<link>http://movreel.com/vb1hb18flwqy</link>
-</item>
 
 
 

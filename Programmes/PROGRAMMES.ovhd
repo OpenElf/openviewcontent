@@ -70,6 +70,14 @@ OVHD Source File - PROGRAMMES.ovhd
 </dir>
 
 <dir>
+<name>Friday Night Dinner</name>
+<imdb>tt1844923</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/friday_night_dinner.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>H2O: Just Add Water</name>
 <imdb>tt0491603</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/h2o.ovhd</link>
