@@ -12,6 +12,14 @@ OVHD Source File - monday.ovhd
 </dir>
 
 <dir>
+<name>Halt and Catch Fire</name>
+<imdb>tt2543312</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/halt_and_catch_fire.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>Keeping Up with the Kardashians</name>
 <imdb>tt1086761</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/kardashians.ovhd</link>
