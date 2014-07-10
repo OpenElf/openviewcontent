@@ -3,7 +3,22 @@
 OVHD Source File - template.ovhd
 
 ################################################################################
+<dir>
+<name>Catfish</name>
+<imdb>tt2498968</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/catfish.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
 
+
+<dir>
+<name>Suits</name>
+<imdb>tt1632701</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/suits.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
 
 
 <item>
@@ -11,6 +26,38 @@ OVHD Source File - template.ovhd
 <imdb></imdb>
 <link>*http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png*http://www.dazzlingwallpaper.com/image/1376065366_cherry_fruits_wallpapers.jpg</link>
 </item>
+
+<item>
+<title>Cherry Thursday 10th July Content</title>
+<imdb></imdb>
+<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.dazzlingwallpaper.com/image/1376065366_cherry_fruits_wallpapers.jpg</link>
+</item>
+
+<item>
+<title>Suits HD S04E04</title>
+<imdb>tt1632701</imdb>
+<link>http://billionuploads.com/eycgfyft0rwm</link>
+</item>
+
+<item>
+<title>Suits SD S04E04</title>
+<imdb>tt1632701</imdb>
+<link>http://billionuploads.com/avvtyzcn2oyb</link>
+</item>
+
+<item>
+<title>Catfish SD S03E10</title>
+<imdb>tt2498968</imdb>
+<link>http://movreel.com/num0metjrbvs</link>
+</item>
+
+<item>
+<title>Catfish SD S03E10</title>
+<imdb>tt2498968</imdb>
+<link>http://billionuploads.com/l4a9qwk9utzg</link>
+</item>
+
+
 
 <item>
 <title>Cherry Thursday 3rd July Content</title>
@@ -31,36 +78,6 @@ OVHD Source File - template.ovhd
 </item>
 
 
-
-<item>
-<title>Cherry Thursday 26th June Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.dazzlingwallpaper.com/image/1376065366_cherry_fruits_wallpapers.jpg</link>
-</item>
-
-<item>
-<title>Suits HD S04E03</title>
-<imdb>tt1632701</imdb>
-<link>http://movreel.com/h0umagr8t7py</link>
-</item>
-
-<item>
-<title>Suits SD S04E03</title>
-<imdb>tt1632701</imdb>
-<link>http://movreel.com/ej3l5g6c2uv8</link>
-</item>
-
-<item>
-<title>Catfish SD S03E08</title>
-<imdb>tt2498968</imdb>
-<link>http://movreel.com/ipfty2nmiyo7</link>
-</item>
-
-<item>
-<title>Catfish SD S03E08</title>
-<imdb>tt2498968</imdb>
-<link>http://billionuploads.com/09fwdx202sfn</link>
-</item>
 
 
 <item>

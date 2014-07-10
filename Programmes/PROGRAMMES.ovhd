@@ -44,6 +44,14 @@ OVHD Source File - PROGRAMMES.ovhd
 <fanart></fanart>
 </dir>
 
+<dir>
+<name>Catfish</name>
+<imdb>tt2498968</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/catfish.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
 
 <dir>
 <name>Da Vinci's Demons</name>
@@ -105,6 +113,14 @@ OVHD Source File - PROGRAMMES.ovhd
 <name>Old School</name>
 <imdb></imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/old_school.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Suits</name>
+<imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/suits.ovhd</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
