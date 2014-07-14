@@ -3,6 +3,13 @@
 OVHD Source File - PROGRAMMES.ovhd
 
 ################################################################################
+<dir>
+<name>Multi Test</name>
+<imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/multi_test.ovhd</link>
+<thumbnail></thumbnail>
+<fanart>http://wp.iosfans.com/wp-content/uploads/2011/07/testpattern-hd-1080.png</fanart>
+</dir>
 
 <dir>
 <name>Almost Royal</name>
