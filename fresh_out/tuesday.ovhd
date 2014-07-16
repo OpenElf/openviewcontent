@@ -11,6 +11,14 @@ OVHD Source File - tuesday.ovhd
 <fanart></fanart>
 </dir>
 
+<dir>
+<name>The Strain</name>
+<imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/fresh_out/the_strain.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
 <item>
 <title>**** HD items may not work during peak internet times, use SD items ***** Content</title>
 <imdb></imdb>
@@ -21,6 +29,18 @@ OVHD Source File - tuesday.ovhd
 <title>Banana Tuesday 15th July Content</title>
 <imdb></imdb>
 <link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1311/Yellow-fruit-banana_1920x1080.jpg</link>
+</item>
+
+<item>
+<title>The Strain HD S01E01</title>
+<imdb>tt2654620</imdb>
+<link>http://billionuploads.com/jcb5pl6jzi7w</link>
+</item>
+
+<item>
+<title>The Strain SD S01E01</title>
+<imdb>tt2654620</imdb>
+<link>http://billionuploads.com/h183kirttzy7</link>
 </item>
 
 <item>

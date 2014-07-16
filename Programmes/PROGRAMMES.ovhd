@@ -157,6 +157,14 @@ OVHD Source File - PROGRAMMES.ovhd
 </dir>
 
 <dir>
+<name>The Strain</name>
+<imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/fresh_out/the_strain.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>Tyrant</name>
 <imdb>tt2568204</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/fresh_out/tyrant.ovhd</link>
