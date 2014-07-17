@@ -18,18 +18,12 @@ OVHD Source File - extant.ovhd
 <link>http://billionuploads.com/aao6ygft54at</link>
 </item>
 
-<multi>
+<item>
 <title>Extant S01E02</title>
 <imdb>tt3155320</imdb>
-<HDlink>http://billionuploads.com/3ay1rudfbkoc</HDlink>
-<HDlink>http://movreel.com/l604yl0ljnys</HDlink>
-<HDlink>nil</HDlink>
-<HDlink>nil</HDlink>
-<SDlink>http://billionuploads.com/e89zg49evldz</SDlink>
-<SDlink>http://movreel.com/7vywufy6jqok</SDlink>
-<SDlink>http://www.nowvideo.sx/video/3d3864757a14b</SDlink>
-<SDlink>nil</SDlink>
-</multi>
+<link><multi>http://billionuploads.com/3ay1rudfbkoc&http://movreel.com/l604yl0ljnys&nil&nil&http://billionuploads.com/e89zg49evldz&http://movreel.com/7vywufy6jqok&http://www.nowvideo.sx/video/3d3864757a14b&nil</link>
+</item>
+
 
 
 
