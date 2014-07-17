@@ -12,31 +12,17 @@ OVHD Source File - multi_test.ovhd
 </item>
 
 
-<multi>
+<item>
 <title>Almost Royal S01E01</title>
 <imdb>tt3727552</imdb>
-<HDlink>http://billionuploads.com/pv7mfxtlu6nt</HDlink>
-<HDlink>http://movreel.com/wuk0wo13di52</HDlink>
-<HDlink>nil</HDlink>
-<HDlink>nil</HDlink>
-<SDlink>http://billionuploads.com/tawz05pmmzxc</SDlink>
-<SDlink>http://movreel.com/qs68sd826sbq</SDlink>
-<SDlink>nil</SDlink>
-<SDlink>nil</SDlink>
-</multi>
+<link><multi>http://billionuploads.com/pv7mfxtlu6nt&http://movreel.com/wuk0wo13di52&nil&nil&http://billionuploads.com/tawz05pmmzxc&http://movreel.com/qs68sd826sbq&nil&nil</link>
+</item>
 
-<multi>
+<item>
 <title>Almost Royal S01E02</title>
 <imdb>tt3727552</imdb>
-<HDlink>http://billionuploads.com/svbo9ivcuznw</HDlink>
-<HDlink>http://movreel.com/m9w5itaxqic9</HDlink>
-<HDlink>nil</HDlink>
-<HDlink>nil</HDlink>
-<SDlink>http://billionuploads.com/70c7wd1ut5fu</SDlink>
-<SDlink>http://movreel.com/5bk78wss1bcm</SDlink>
-<SDlink>nil</SDlink>
-<SDlink>nil</SDlink>
-</multi>
+<link><multi>http://billionuploads.com/svbo9ivcuznw&http://movreel.com/m9w5itaxqic9&nil&nil&http://billionuploads.com/tawz05pmmzxc&http://movreel.com/qs68sd826sbq&nil&nil</link>
+</item>
 
 
 
