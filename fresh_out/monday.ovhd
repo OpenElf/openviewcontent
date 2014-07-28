@@ -3,13 +3,7 @@
 OVHD Source File - monday.ovhd
 
 ################################################################################
-<dir>
-<name>Devious Maids</name>
-<imdb>tt2226342</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/devious_maids.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
+
 
 <dir>
 <name>Halt and Catch Fire</name>
@@ -43,6 +37,50 @@ OVHD Source File - monday.ovhd
 <imdb></imdb>
 <link>*http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png*http://www.kucuu.com/desktop-wallpaper-home/red-Juicy-fruits-wallpapers-1920x1080.jpg</link>
 </item>
+
+<item>
+<title>Raspberry Monday 28th July Content</title>
+<imdb></imdb>
+<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.kucuu.com/desktop-wallpaper-home/red-Juicy-fruits-wallpapers-1920x1080.jpg</link>
+</item>
+
+<item>
+<title>Halt and Catch Fire S01E09</title>
+<imdb>tt2543312</imdb>
+<link><multi>http://billionuploads.com/xjtasu2zu8aj&http://movreel.com/f6u5f250pvsp&nil&nil&http://billionuploads.com/4bif80qg9d4l&http://movreel.com/82l6eqqb7e4d&http://www.firedrive.com/file/963DD773A1BFB8EC&nil</link>
+</item>
+
+<item>
+<title>Kardashians S09E15</title>
+<imdb>tt1086761</imdb>
+<link><multi>nil&nil&nil&nil&http://vodlocker.com/9kq4q25l61bf&http://www.nowvideo.sx/video/9dcc3e5d494d6&http://movreel.com/vdk5s8qeflfn.html&http://played.to/w5cz3wb11ym2</link>
+</item>
+
+<item>
+<title>The Strain S01E03</title>
+<imdb>tt2654620</imdb>
+<link><multi>http://billionuploads.com/zj7z57s7vs95&http://movreel.com/btp1vv2c3cpc&nil&nil&http://billionuploads.com/7viqt7hhh86e&http://movreel.com/5grzj4qtcch5&http://www.nowvideo.sx/video/b85ad588177f1&http://www.firedrive.com/file/9598DE46C8F8FF9B</link>
+</item>
+
+<item>
+<title>Naked and Afraid S03E05</title>
+<imdb>tt3007640</imdb>
+<link><multi>http://billionuploads.com/nqqpvo1tp04i&http://movreel.com/4xk16ztbqiuf&nil&nil&http://billionuploads.com/wy97ur2g9dmb&http://movreel.com/49shp0ai17z5&http://vodlocker.com/97zxv5pz1cit&nil</link>
+</item>
+
+<item>
+<title>The Lottery S01E02</title>
+<imdb>tt3314228</imdb>
+<link><multi>http://billionuploads.com/saxxc2pxclzq&http://movreel.com/xnnfrrxfdvq0&nil&nil&http://movreel.com/sd59qocoo5ls&http://billionuploads.com/l7an0fu75lg0&nil&nil</link>
+</item>
+
+<item>
+<title>The Last Ship S01E02</title>
+<imdb>tt2402207</imdb>
+<link><multi>http://billionuploads.com/7nco9mmcv3ii&http://movreel.com/68n8gz4sq79x&nil&nil&http://movreel.com/r5blqt9cer6c&http://billionuploads.com/oxukr0yjles1nilnil</link>
+</item>
+
+
 
 <item>
 <title>Raspberry Monday 21st July Content</title>
@@ -92,47 +130,3 @@ OVHD Source File - monday.ovhd
 <link><multi>http://billionuploads.com/a9v5k7agk381&http://movreel.com/evzlhe4xswu9&nil&nil&http://billionuploads.com/b7khywv3569k&http://movreel.com/byv32x4m56wc&nil&nil</link>
 </item>
 
-<item>
-<title>Raspberry Monday 14th July Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.kucuu.com/desktop-wallpaper-home/red-Juicy-fruits-wallpapers-1920x1080.jpg</link>
-</item>
-
-<item>
-<title>Halt and Catch Fire HD S01E07</title>
-<imdb>tt2543312</imdb>
-<link>http://billionuploads.com/9e51gaxu7mzo</link>
-</item>
-
-<item>
-<title>Halt and Catch Fire SD S01E07</title>
-<imdb>tt2543312</imdb>
-<link>http://billionuploads.com/xwl4vgqw2k70</link>
-</item>
-
-
-<item>
-<title>Devious Maids HD S02E13</title>
-<imdb>tt2226342</imdb>
-<link>http://billionuploads.com/r70j0mdo44ya</link>
-</item>
-
-<item>
-<title>Devious Maids SD S02E13</title>
-<imdb>tt2226342</imdb>
-<link>http://billionuploads.com/efjov1uwa0dx</link>
-</item>
-
-<item>
-<title>Kardashians SD S09E13</title>
-<imdb>tt1086761</imdb>
-<link>http://billionuploads.com/xclqkzrc8a6a</link>
-</item>
-
-
-
-<item>
-<title>Kardashians SD S09E13</title>
-<imdb>tt1086761</imdb>
-<link>http://movreel.com/m2govhvc38cv</link>
-</item>
