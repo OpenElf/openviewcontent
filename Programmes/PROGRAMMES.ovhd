@@ -126,6 +126,14 @@ OVHD Source File - PROGRAMMES.ovhd
 </dir>
 
 <dir>
+<name>Manhatten</name>
+<imdb>tt3231564</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/manhatten.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>I Wanna Marry 'Harry'</name>
 <imdb>tt3181412</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/marry_harry.ovhd</link>
