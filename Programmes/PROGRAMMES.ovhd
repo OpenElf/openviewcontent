@@ -166,6 +166,14 @@ OVHD Source File - PROGRAMMES.ovhd
 </dir>
 
 <dir>
+<name>The Lottery</name>
+<imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/the_lottery.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>The Strain</name>
 <imdb></imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/the_strain.ovhd</link>
