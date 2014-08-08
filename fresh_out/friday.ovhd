@@ -3,21 +3,6 @@
 OVHD Source File - friday.ovhd
 
 ################################################################################
-<dir>
-<name>Black Box</name>
-<imdb>tt2968404</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/black_box.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name>Defiance</name>
-<imdb>tt2189221</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/black_box.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
 
 <dir>
 <name>The Honourable Woman</name>
@@ -31,6 +16,18 @@ OVHD Source File - friday.ovhd
 <title>**** HD items may not work during peak internet times, use SD items ***** Content</title>
 <imdb></imdb>
 <link>*http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png*http://best-wallpaper.net/wallpaper/1920x1080/1211/Summer-grass-red-apple-harvest-delicious-fruit_1920x1080.jpg</link>
+</item>
+
+<item>
+<title>Apple Friday 8th August Content</title>
+<imdb></imdb>
+<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1211/Summer-grass-red-apple-harvest-delicious-fruit_1920x1080.jpg</link>
+</item>
+
+<item>
+<title>The Honourable Woman S01E06</title>
+<imdb>tt3021686</imdb>
+<link><multi>http://movreel.com/oknqpto3vbmv&http://vodlocker.com/7vd9yywpmm5z&http://www.sockshare.com/file/821CF78FECF9927C&http://www.firedrive.com/file/BCE75B8796B39FBC&http://billionuploads.com/9kkvyfccy9om&http://movreel.com/f8tav8iti1bn&http://www.nowvideo.sx/video/53e4329665358&http://vodlocker.com/1i61run5w18y</link>
 </item>
 
 <item>
@@ -74,25 +71,6 @@ OVHD Source File - friday.ovhd
 <imdb>tt3021686</imdb>
 <link><multi>http://billionuploads.com/6hgkjozvzji6&http://movreel.com/d94nms210aqo&nil&nil&http://movreel.com/0coxhaa1uihk&http://billionuploads.com/lm7kej3v5la4&nil&nil</link>
 </item>
-
-<item>
-<title>Apple Friday 25th July Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1211/Summer-grass-red-apple-harvest-delicious-fruit_1920x1080.jpg</link>
-</item>
-
-<item>
-<title>Black Box S01E12</title>
-<imdb>tt2968404</imdb>
-<link><multi>http://billionuploads.com/mhaa1ee5flae&nil&nil&nil&http://billionuploads.com/mztvqb9tvtgk&http://movreel.com/kgedei18bnax&http://played.to/q9iwo63nvmv5&http://filenuke.com/f/0oMezY3</link>
-</item>
-
-<item>
-<title>The Honourable Woman S01E04</title>
-<imdb>tt3021686</imdb>
-<link><multi>http://billionuploads.com/782xwcaomrkm&http://movreel.com/ndgahz0xvpwp&nil&nil&http://movreel.com/euhp0dson881&http://billionuploads.com/b71u8s5zkhy3&http://vodlocker.com/d5ffszkvnv6p&nil</link>
-</item>
-
 
 
 
