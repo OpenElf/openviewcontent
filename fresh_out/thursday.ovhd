@@ -21,14 +21,6 @@ OVHD Source File - template.ovhd
 <fanart></fanart>
 </dir>
 
-<dir>
-<name>Outlander</name>
-<imdb>tt3006802</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/outlander.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
-
 
 <item>
 <title>**** HD items may not work during peak internet times, use SD items ***** Content</title>
