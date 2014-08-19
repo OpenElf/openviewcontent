@@ -11,6 +11,14 @@ OVHD Source File - LIBRARY.ovhd
 </item>
 
 <dir>
+<name>Search for Films</name>
+<imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/blacklist.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>The Blacklist</name>
 <imdb>tt2741602</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/blacklist.ovhd</link>
