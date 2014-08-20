@@ -10,13 +10,6 @@ OVHD Source File - LIBRARY.ovhd
 <link>*http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png*http://www.mrwallpaper.com/wallpapers/Fruit-Salad-1920x1080.jpg</link>
 </item>
 
-<dir>
-<name>Search for Films</name>
-<imdb></imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/blacklist.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
 
 <dir>
 <name>The Blacklist</name>
