@@ -4,6 +4,13 @@ OVHD Source File - sunday.ovhd
 
 ################################################################################
 
+<dir>
+<name>Doctor Who</name>
+<imdb>tt0436992</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/doctor_who_season8.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
 
 <dir>
 <name>Outlander</name>
@@ -21,6 +28,18 @@ OVHD Source File - sunday.ovhd
 </item>
 
 <item>
+<title>Sundae Sunday 24th August Content</title>
+<imdb></imdb>
+<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.mrwallpaper.com/wallpapers/Fruit-Salad-1920x1080.jpg</link>
+</item>
+
+<item>
+<title>Outlander S01E03</title>
+<imdb>tt3006802</imdb>
+<link><multi>http://movreel.com/jtlzghy8uw9a&http://www.sockshare.com/file/83729B145CF9E728&http://www.firedrive.com/file/48AD9F113A3166CA&http://billionuploads.com/xw9328mmw961&http://movreel.com/zn6zlvxzzisi&http://allmyvideos.net/cqdn328j3yoy&http://www.sockshare.com/file/61D459D8068BC558&http://www.firedrive.com/file/A67A7467F5F402E4</link>
+</item>
+
+<item>
 <title>Sundae Sunday 17th August Content</title>
 <imdb></imdb>
 <link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.mrwallpaper.com/wallpapers/Fruit-Salad-1920x1080.jpg</link>
@@ -32,10 +51,6 @@ OVHD Source File - sunday.ovhd
 <link><multi>http://movreel.com/65wf53gssyoa&http://billionuploads.com/00dh3mnxgxy3&nil&nil&http://movreel.com/gpi56nrpnr0y&http://billionuploads.com/12refqarfsqm&nil&nil</link>
 </item>
 
-<item>
-<title>Sundae Sunday 10th August Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.mrwallpaper.com/wallpapers/Fruit-Salad-1920x1080.jpg</link>
-</item>
+
 
 
