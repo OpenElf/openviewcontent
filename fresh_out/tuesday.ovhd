@@ -3,6 +3,13 @@
 OVHD Source File - tuesday.ovhd
 
 ################################################################################
+<dir>
+<name>Houdini</name>
+<imdb>tt3132738</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/houdini.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
 
 <dir>
 <name>Running Wild with Bear Grylls</name>
@@ -21,6 +28,12 @@ OVHD Source File - tuesday.ovhd
 <title>Banana Tuesday 2nd September Content</title>
 <imdb></imdb>
 <link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1311/Yellow-fruit-banana_1920x1080.jpg</link>
+</item>
+
+<item>
+<title>Houdini S01E01</title>
+<imdb>tt3132738</imdb>
+<link><multi>http://movreel.com/byfqlw1lpa6n&http://billionuploads.com/p5iuewrqm1jt&http://www.firedrive.com/file/41A80B5245F8DBC4&http://www.sockshare.com/file/B87B1BC31A01CEFB&http://movreel.com/8ceg6oor1azi&http://billionuploads.com/2hk2plqr7w62&http://allmyvideos.net/mn3t6kjfbo71&nil</link>
 </item>
 
 <item>
