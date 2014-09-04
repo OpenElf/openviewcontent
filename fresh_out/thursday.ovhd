@@ -13,19 +13,23 @@ OVHD Source File - template.ovhd
 </dir>
 
 
-<dir>
-<name>Suits</name>
-<imdb>tt1632701</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/suits.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
-
 
 <item>
 <title>**** HD items may not work during peak internet times, use SD items ***** Content</title>
 <imdb></imdb>
 <link>*http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png*http://www.dazzlingwallpaper.com/image/1376065366_cherry_fruits_wallpapers.jpg</link>
+</item>
+
+<item>
+<title>Cherry Thursday 4th September Content</title>
+<imdb></imdb>
+<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.dazzlingwallpaper.com/image/1376065366_cherry_fruits_wallpapers.jpg</link>
+</item>
+
+<item>
+<title>Extant S01E11</title>
+<imdb>tt3155320</imdb>
+<link><multi>http://www.sockshare.com/file/E4CD529BFD3B2997&http://www.firedrive.com/file/F4EA65199B9D60AF&http://movreel.com/wblpwmycgvx5&http://billionuploads.com/e1qql1evh4v5&http://www.sockshare.com/file/6719EECDEF8E09BE&http://allmyvideos.net/bgb6fmo1ojzq&http://movreel.com/g3cvekpgl0sd&http://billionuploads.com/8xxcu4tzfom5</link>
 </item>
 
 <item>
@@ -52,40 +56,4 @@ OVHD Source File - template.ovhd
 <link><multi>http://www.firedrive.com/file/429D3078C69713AE&http://www.sockshare.com/file/001EEF8052816835&http://movreel.com/4sdqkyozc88l&nil&http://www.firedrive.com/file/2ACF8BFDF7216023&http://www.sockshare.com/file/5EB7196AEAD1A7FE&http://allmyvideos.net/v7orh1q3q4u1&http://movreel.com/awh5fenw8j8r</link>
 </item>
 
-
-<item>
-<title>Cherry Thursday 21st August Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.dazzlingwallpaper.com/image/1376065366_cherry_fruits_wallpapers.jpg</link>
-</item>
-
-<item>
-<title>**** Extant E07 and E08 were broadcast together so they are the same  ***** Content</title>
-<imdb></imdb>
-<link>*http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png*http://www.dazzlingwallpaper.com/image/1376065366_cherry_fruits_wallpapers.jpg</link>
-</item>
-
-<item>
-<title>Extant S01E07</title>
-<imdb>tt3155320</imdb>
-<link><multi>http://www.firedrive.com/file/A092AEF59F97AEF4&http://www.sockshare.com/file/7F51194F7EC55BA1&http://billionuploads.com/nve0pjhllkit&http://movreel.com/6xtshbgc2xfo&http://www.sockshare.com/file/613533DF961B2C52&http://www.firedrive.com/file/D3B7E12C34435871&http://allmyvideos.net/cal4qjw3z1e9&http://billionuploads.com/s8o42lxi30bp</link>
-</item>
-
-<item>
-<title>Extant S01E08</title>
-<imdb>tt3155320</imdb>
-<link><multi>http://www.firedrive.com/file/A092AEF59F97AEF4&http://www.sockshare.com/file/7F51194F7EC55BA1&http://billionuploads.com/nve0pjhllkit&http://movreel.com/6xtshbgc2xfo&http://www.sockshare.com/file/613533DF961B2C52&http://www.firedrive.com/file/D3B7E12C34435871&http://allmyvideos.net/cal4qjw3z1e9&http://billionuploads.com/s8o42lxi30bp</link>
-</item>
-
-<item>
-<title>Suits S04E10</title>
-<imdb>tt1632701</imdb>
-<link><multi>http://www.sockshare.com/file/641812C2344F9672&http://movreel.com/my98sd5s3af2&http://billionuploads.com/57htyip0p5jn&http://allmyvideos.net/su4wnn7b7k7d&http://www.sockshare.com/file/153EE119924C406C&http://movreel.com/tllgz7f0ed3e&http://billionuploads.com/dpbgy8jv17gv&http://allmyvideos.net/sgbqucy1hhkk</link>
-</item>
-
-<item>
-<title>Night Moves (2013)</title>
-<imdb>tt2043933</imdb>
-<link><multi>http://movreel.com/ohdgg741n84e&http://billionuploads.com/z9rbiebgextz&http://www.sockshare.com/file/07BFCA8C7394878F&http://www.firedrive.com/file/9E25EF37CC50E3D8&http://billionuploads.com/r7hqto2xmilx&http://movreel.com/via3jkdw5iv7&http://allmyvideos.net/efxue5lkyxx4&http://www.nowvideo.sx/video/bdb03cd003348</link>
-</item>
 
