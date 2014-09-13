@@ -1,10 +1,82 @@
+<dir>
+<name>Bates Motel</name>
+<imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/Bates.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
 
 
 <dir>
-<title>Extant (2014)</title>
-<link>search</link>
-<thumbnail>http://thetvdb.com/banners/posters/272127-1.jpg</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/272127-1.jpg</fanart>
+<name>Black Box</name>
+<imdb>tt2968404</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/black_box.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </dir>
 
+<dir>
+<name>The Blacklist</name>
+<imdb>tt2741602</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/blacklist.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Da Vinci's Demons</name>
+<imdb>tt2094262</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/Davinci.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Doctor Who</name>
+<imdb>tt0436992</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/doctor_who.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+
+<dir>
+<name>Extant</name>
+<imdb>tt3155320</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/extant.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Halt and Catch Fire</name>
+<imdb>tt2543312</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/halt_and_catch_fire.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Manhatten</name>
+<imdb>tt3231564</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/manhatten.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Suits</name>
+<imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/suits.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Tyrant</name>
+<imdb>tt2568204</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/tyrant.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
 
