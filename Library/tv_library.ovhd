@@ -65,6 +65,14 @@
 </dir>
 
 <dir>
+<name>Outlander</name>
+<imdb>tt3006802</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/outlander.ovhd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>Suits</name>
 <imdb></imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/suits.ovhd</link>
