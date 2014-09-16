@@ -3,13 +3,7 @@
 OVHD Source File - tuesday.ovhd
 
 ################################################################################
-<dir>
-<name>Houdini</name>
-<imdb>tt3132738</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/houdini.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
+
 
 <dir>
 <name>Running Wild with Bear Grylls</name>
@@ -26,6 +20,12 @@ OVHD Source File - tuesday.ovhd
 </item>
 
 <item>
+<title>Banana Tuesday 16th September Content</title>
+<imdb></imdb>
+<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1311/Yellow-fruit-banana_1920x1080.jpg</link>
+</item>
+
+<item>
 <title>Banana Tuesday 9th September Content</title>
 <imdb></imdb>
 <link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1311/Yellow-fruit-banana_1920x1080.jpg</link>
@@ -35,30 +35,6 @@ OVHD Source File - tuesday.ovhd
 <title>Running Wild with Bear Grylls S01E06</title>
 <imdb>tt3816666</imdb>
 <link><multi>http://movreel.com/k8uehp42x7ae&http://billionuploads.com/ldduc6vig6ew&http://movreel.com/v5qkfcq29q44&nil&nil&nil&nil&nil</link>
-</item>
-
-<item>
-<title>Banana Tuesday 2nd September Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1311/Yellow-fruit-banana_1920x1080.jpg</link>
-</item>
-
-<item>
-<title>Houdini S01E01</title>
-<imdb>tt3132738</imdb>
-<link><multi>http://movreel.com/byfqlw1lpa6n&http://billionuploads.com/p5iuewrqm1jt&http://www.firedrive.com/file/41A80B5245F8DBC4&http://www.sockshare.com/file/B87B1BC31A01CEFB&http://movreel.com/8ceg6oor1azi&http://billionuploads.com/2hk2plqr7w62&http://allmyvideos.net/mn3t6kjfbo71&nil</link>
-</item>
-
-<item>
-<title>Kardashians S09E20</title>
-<imdb>tt1086761</imdb>
-<link><multi>nil&nil&nil&nil&http://movreel.com/x5e0tmjk26io&http://billionuploads.com/lz9mffp957vq&http://www.sockshare.com/file/037DF7854574E1EF&http://www.firedrive.com/file/7179FB36256A4C42</link>
-</item>
-
-<item>
-<title>Running Wild with Bear Grylls S01E05</title>
-<imdb>tt3816666</imdb>
-<link><multi>http://movreel.com/l4rudl1gm6pd&http://billionuploads.com/wc0d2amj0znv&nil&nil&http://movreel.com/x0ljng6fn1os&http://billionuploads.com/xxdueicjlllk&nil&nil</link>
 </item>
 
 
