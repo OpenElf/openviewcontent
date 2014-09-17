@@ -13,7 +13,7 @@ OVHD Source File - tuesday.ovhd
 </dir>
 
 <dir>
-<name>HD items may buffer at peak internet times, use SD items</name>
+<name>Gold servers may buffer at peak internet times, try Silver or Bronze servers</name>
 <imdb>divider_lime</imdb>
 <link>nil</link>
 <thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
@@ -28,4 +28,10 @@ OVHD Source File - tuesday.ovhd
 <fanart>http://thetvdb.com/banners/fanart/original/285976-4.jpg</fanart>
 </dir>
 
-
+<dir>
+<name>Glue (2014)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/284409-2.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/284409-6.jpg</fanart>
+</dir>

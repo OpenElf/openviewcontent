@@ -3,45 +3,28 @@
 OVHD Source File - template.ovhd
 
 ################################################################################
-
 <dir>
-<name>Extant</name>
-<imdb>tt3155320</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/extant.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<name>Welcome to Cherry Thursday</name>
+<imdb>divider_aqua</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>http://www.kucuu.com/desktop-wallpaper-home/red-Juicy-fruits-wallpapers-1920x1080.jpg</fanart>
 </dir>
 
+<dir>
+<name>Gold servers may buffer at peak internet times, try Silver or Bronze servers</name>
+<imdb>divider_lime</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>http://www.dazzlingwallpaper.com/image/1376065366_cherry_fruits_wallpapers.jpg</fanart>
+</dir>
 
-
-<item>
-<title>**** HD items may not work during peak internet times, use SD items ***** Content</title>
-<imdb></imdb>
-<link>*http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png*http://www.dazzlingwallpaper.com/image/1376065366_cherry_fruits_wallpapers.jpg</link>
-</item>
-
-<item>
-<title>Cherry Thursday 11th September Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.dazzlingwallpaper.com/image/1376065366_cherry_fruits_wallpapers.jpg</link>
-</item>
-
-<item>
-<title>Extant S01E12</title>
-<imdb>tt3155320</imdb>
-<link><multi>http://www.firedrive.com/file/3F5A73D596BFCF11&http://movreel.com/75qliltsc1rz&http://billionuploads.com/8sfb3aekqkva&nil&http://www.firedrive.com/file/98DE46D1C7973776&http://allmyvideos.net/7xmg8u5ewsee&http://played.to/h6cajunqkciy&http://movreel.com/89ixi6vr1axs</link>
-</item>
-
-<item>
-<title>Cherry Thursday 4th September Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.dazzlingwallpaper.com/image/1376065366_cherry_fruits_wallpapers.jpg</link>
-</item>
-
-<item>
-<title>Extant S01E11</title>
-<imdb>tt3155320</imdb>
-<link><multi>http://www.sockshare.com/file/E4CD529BFD3B2997&http://www.firedrive.com/file/F4EA65199B9D60AF&http://movreel.com/wblpwmycgvx5&http://billionuploads.com/e1qql1evh4v5&http://www.sockshare.com/file/6719EECDEF8E09BE&http://allmyvideos.net/bgb6fmo1ojzq&http://movreel.com/g3cvekpgl0sd&http://billionuploads.com/8xxcu4tzfom5</link>
-</item>
+<dir>
+<name>Extant (2014)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/272127-4.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/272127-6.jpg</fanart>
+</dir>
 
 
