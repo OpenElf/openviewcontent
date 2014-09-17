@@ -4,6 +4,13 @@ OVHD Source File - tuesday.ovhd
 
 ################################################################################
 
+<dir>
+<name>Welcome to Banana Tuesday</name>
+<imdb>divider</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>http://best-wallpaper.net/wallpaper/1920x1080/1311/Yellow-fruit-banana_1920x1080.jpg</fanart>
+</dir>
 
 <dir>
 <name>Running Wild with Bear Grylls</name>
