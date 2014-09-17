@@ -3,26 +3,21 @@
 OVHD Source File - wednesday.ovhd
 
 ################################################################################
+<dir>
+<name>Welcome to Orange Wednesday</name>
+<imdb>divider_aqua</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>http://wallgood.com/wp-content/uploads/2013/05/Fresh-Orange-1080p-Wallpaper.jpg</fanart>
+</dir>
 
+<dir>
+<name>Gold servers may buffer at peak internet times, try Silver or Bronze servers</name>
+<imdb>divider_lime</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>http://wallgood.com/wp-content/uploads/2013/05/Fresh-Orange-1080p-Wallpaper.jpg</fanart>
+</dir>
 
-<item>
-<title>**** HD items may not work during peak internet times, use SD items ***** Content</title>
-<imdb></imdb>
-<link>*http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png*http://wallgood.com/wp-content/uploads/2013/05/Fresh-Orange-1080p-Wallpaper.jpg</link>
-</item>
-
-<item>
-<title>Orange Wednesday 17th September Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://wallgood.com/wp-content/uploads/2013/05/Fresh-Orange-1080p-Wallpaper.jpg</link>
-</item>
-
-
-
-<item>
-<title>Orange Wednesday 10th September Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://wallgood.com/wp-content/uploads/2013/05/Fresh-Orange-1080p-Wallpaper.jpg</link>
-</item>
 
 
