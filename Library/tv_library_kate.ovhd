@@ -6,6 +6,14 @@
 </message>
 
 <dir>
+<name>The Carrie Diaries (2013)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/257454-2.jpg</thumbnail>
+<fanart>http://thetvdb.com/?tab=series&id=257454&lid=7</fanart>
+</dir>
+
+<dir>
 <name>H2O: Just Add Water</name>
 <imdb>tt0491603</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/h2o.ovhd</link>

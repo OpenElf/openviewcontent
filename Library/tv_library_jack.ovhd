@@ -6,6 +6,15 @@
 </message>
 
 <dir>
+<name>Bear Grylls Escape from Hell (2013)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/274052-1.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274052-1.jpg</fanart>
+</dir>
+
+
+<dir>
 <name>Running Wild with Bear Grylls</name>
 <imdb>tt3816666</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/running_wild_with_bear_grylls.ovhd</link>
