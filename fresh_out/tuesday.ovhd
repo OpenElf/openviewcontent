@@ -6,31 +6,26 @@ OVHD Source File - tuesday.ovhd
 
 <dir>
 <name>Welcome to Banana Tuesday</name>
-<imdb>divider</imdb>
+<imdb>divider_aqua</imdb>
 <link>nil</link>
 <thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
 <fanart>http://best-wallpaper.net/wallpaper/1920x1080/1311/Yellow-fruit-banana_1920x1080.jpg</fanart>
 </dir>
 
 <dir>
-<name>Running Wild with Bear Grylls</name>
-<imdb>tt3816666</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/running_wild_with_bear_grylls.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<name>HD items may buffer at peak internet times, use SD items</name>
+<imdb>divider_lime</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>http://best-wallpaper.net/wallpaper/1920x1080/1311/Yellow-fruit-banana_1920x1080.jpg</fanart>
 </dir>
 
 <item>
-<title>**** HD items may not work during peak internet times, use SD items ***** Content</title>
+<title>**** HD items may buffer at peak internet times, use SD items ***** Content</title>
 <imdb></imdb>
 <link>*http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png*http://best-wallpaper.net/wallpaper/1920x1080/1311/Yellow-fruit-banana_1920x1080.jpg</link>
 </item>
 
-<item>
-<title>Banana Tuesday 16th September Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1311/Yellow-fruit-banana_1920x1080.jpg</link>
-</item>
 
 <dir>
 <name>Cilla (2014)</name>
@@ -39,17 +34,5 @@ OVHD Source File - tuesday.ovhd
 <thumbnail>http://thetvdb.com/banners/posters/285976-2.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/285976-4.jpg</fanart>
 </dir>
-
-<item>
-<title>Banana Tuesday 9th September Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1311/Yellow-fruit-banana_1920x1080.jpg</link>
-</item>
-
-<item>
-<title>Running Wild with Bear Grylls S01E06</title>
-<imdb>tt3816666</imdb>
-<link><multi>http://movreel.com/k8uehp42x7ae&http://billionuploads.com/ldduc6vig6ew&http://movreel.com/v5qkfcq29q44&nil&nil&nil&nil&nil</link>
-</item>
 
 
