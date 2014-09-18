@@ -7,8 +7,8 @@ OVHD Source File - friday.ovhd
 <name>Welcome to Apple Friday</name>
 <imdb>divider_aqua</imdb>
 <link>nil</link>
-<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
-<fanart>http://best-wallpaper.net/wallpaper/1920x1080/1211/Summer-grass-red-apple-harvest-delicious-fruit_1920x1080.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_apple_friday.jpg</fanart>
 </dir>
 
 

@@ -7,8 +7,8 @@ OVHD Source File - template.ovhd
 <name>Welcome to Cherry Thursday</name>
 <imdb>divider_aqua</imdb>
 <link>nil</link>
-<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
-<fanart>http://www.kucuu.com/desktop-wallpaper-home/red-Juicy-fruits-wallpapers-1920x1080.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_cherry_thursday.jpg</fanart>
 </dir>
 
 

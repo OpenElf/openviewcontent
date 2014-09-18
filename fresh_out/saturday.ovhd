@@ -7,8 +7,8 @@ OVHD Source File - saturday.ovhd
 <name>Welcome to Scrummy Saturday</name>
 <imdb>divider_aqua</imdb>
 <link>nil</link>
-<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
-<fanart>http://best-wallpaper.net/wallpaper/1920x1080/1208/Delicious-fruit-oranges-and-kiwi-fruit_1920x1080.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_scrummy_saturday.jpg</fanart>
 </dir>
 
 <dir>

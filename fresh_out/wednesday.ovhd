@@ -7,8 +7,8 @@ OVHD Source File - wednesday.ovhd
 <name>Welcome to Orange Wednesday</name>
 <imdb>divider_aqua</imdb>
 <link>nil</link>
-<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
-<fanart>http://wallgood.com/wp-content/uploads/2013/05/Fresh-Orange-1080p-Wallpaper.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_orange_wednesday.jpg</fanart>
 </dir>
 
 
