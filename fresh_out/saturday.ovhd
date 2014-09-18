@@ -3,56 +3,22 @@
 OVHD Source File - saturday.ovhd
 
 ################################################################################
+<dir>
+<name>Welcome to Scrummy Saturday</name>
+<imdb>divider_aqua</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>http://best-wallpaper.net/wallpaper/1920x1080/1208/Delicious-fruit-oranges-and-kiwi-fruit_1920x1080.jpg</fanart>
+</dir>
 
 <dir>
-<name>Big School</name>
-<imdb>tt2827534</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/big_school.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<name>Big School (2013)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/272012-4.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/272012-1.jpg</fanart>
 </dir>
 
 
-<item>
-<title>**** HD items may not work during peak internet times, use SD items ***** Content</title>
-<imdb></imdb>
-<link>*http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png*http://best-wallpaper.net/wallpaper/1920x1080/1208/Delicious-fruit-oranges-and-kiwi-fruit_1920x1080.jpg</link>
-</item>
-
-<item>
-<title>Scrummy Saturday 13th September Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1208/Delicious-fruit-oranges-and-kiwi-fruit_1920x1080.jpg</link>
-</item>
-
-<item>
-<title>Big School S02E03</title>
-<imdb>tt2827534</imdb>
-<link><multi>http://movreel.com/9s7qmb36cyw7&http://billionuploads.com/dnu8mnzm2ov6&nil&nil&http://movreel.com/tjq3eo4cy2te&http://billionuploads.com/90jltu3h9t6e&nil&nil</link>
-</item>
-
-<item>
-<title>Scrummy Saturday 6th September Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1208/Delicious-fruit-oranges-and-kiwi-fruit_1920x1080.jpg</link>
-</item>
-
-<item>
-<title>Big School S02E02</title>
-<imdb>tt2827534</imdb>
-<link><multi>http://movreel.com/7lppxuoum54i&http://billionuploads.com/e3e0o88t9pq1&nil&nil&http://movreel.com/me1ft4kgf0m9&http://billionuploads.com/1csycb8aov98&nil&nil</link>
-</item>
-
-<item>
-<title>Scrummy Saturday 30th August Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1208/Delicious-fruit-oranges-and-kiwi-fruit_1920x1080.jpg</link>
-</item>
-
-<item>
-<title>Big School S02E01</title>
-<imdb>tt2827534</imdb>
-<link><multi>http://movreel.com/g7po7n731emg&http://billionuploads.com/xb57xuorpi8s&nil&nil&http://billionuploads.com/2ry6ikp45u0y&http://movreel.com/ufslw1fkqzwf&nil&nil</link>
-</item>
 
 

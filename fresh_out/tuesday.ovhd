@@ -13,14 +13,6 @@ OVHD Source File - tuesday.ovhd
 </dir>
 
 <dir>
-<name>Gold servers may buffer at peak internet times, try Silver or Bronze servers</name>
-<imdb>divider_lime</imdb>
-<link>nil</link>
-<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
-<fanart>http://best-wallpaper.net/wallpaper/1920x1080/1311/Yellow-fruit-banana_1920x1080.jpg</fanart>
-</dir>
-
-<dir>
 <name>Cilla (2014)</name>
 <imdb>search</imdb>
 <link>search</link>
@@ -35,3 +27,20 @@ OVHD Source File - tuesday.ovhd
 <thumbnail>http://thetvdb.com/banners/posters/284409-2.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/284409-6.jpg</fanart>
 </dir>
+
+<dir>
+<name>Please note that Scorpion will first air on 22 September</name>
+<imdb>divider_lime</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>http://wallgood.com/wp-content/uploads/2013/05/Fresh-Orange-1080p-Wallpaper.jpg</fanart>
+</dir>
+
+<dir>
+<name>Scorpion (2014)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/281630-1.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/281630-5.jpg</fanart>
+</dir>
+

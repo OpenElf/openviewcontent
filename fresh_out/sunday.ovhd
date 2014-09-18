@@ -3,6 +3,13 @@
 OVHD Source File - sunday.ovhd
 
 ################################################################################
+<dir>
+<name>Welcome to Sundae Sunday</name>
+<imdb>divider_aqua</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>http://www.mrwallpaper.com/wallpapers/Fruit-Salad-1920x1080.jpg</fanart>
+</dir>
 
 <dir>
 <name>Doctor Who</name>
@@ -13,66 +20,19 @@ OVHD Source File - sunday.ovhd
 </dir>
 
 <dir>
-<name>Outlander</name>
-<imdb>tt3006802</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/outlander.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<name>Outlander (2014)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/270408-4.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/270408-19.jpg</fanart>
 </dir>
 
-
-<item>
-<title>**** HD items may not work during peak internet times, use SD items ***** Content</title>
-<imdb></imdb>
-<link>*http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png*http://www.mrwallpaper.com/wallpapers/Fruit-Salad-1920x1080.jpg</link>
-</item>
-
-<item>
-<title>Sundae Sunday 14th September Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.mrwallpaper.com/wallpapers/Fruit-Salad-1920x1080.jpg</link>
-</item>
-
-<item>
-<title>Doctor Who S08E04</title>
-<imdb>tt0436992</imdb>
-<link><multi>http://movreel.com/r95ctg8flls8&http://billionuploads.com/864kxrg10q1g&nil&nil&http://billionuploads.com/61fv6sn1ygme&http://movreel.com/pce874wr8cz4&nil&nil</link>
-</item>
-
-<item>
-<title>Intruders S01E04</title>
-<imdb>tt3552166</imdb>
-<link><multi>http://movreel.com/vejx9scj1c4p&http://billionuploads.com/1a2bjo304ed2&nil&nil&http://movreel.com/rpomgf61i2x4&http://billionuploads.com/79gpowlyb9vn&nil&nil</link>
-</item>
-
-<item>
-<title>Outlander S01E06</title>
-<imdb>tt3006802</imdb>
-<link><multi>http://movreel.com/eoodzrtx923f&http://billionuploads.com/ljw6ttybanql&nil&nil&http://movreel.com/rb5qh699lvh3&http://billionuploads.com/opf98d9x6bif&nil&nil</link>
-</item>
-
-<item>
-<title>Sundae Sunday 7th September Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://www.mrwallpaper.com/wallpapers/Fruit-Salad-1920x1080.jpg</link>
-</item>
-
-<item>
-<title>Doctor Who S08E03</title>
-<imdb>tt0436992</imdb>
-<link><multi>http://movreel.com/lc1k7o7bnr9n&http://billionuploads.com/ghgtetxh05n1&nil&nil&http://www.sockshare.com/file/B85F1DC8BFD648E7&http://www.firedrive.com/file/8DFC26269D9219E7&http://movreel.com/bi5yjjsnehi6&http://billionuploads.com/2rtqslg3rvk4</link>
-</item>
-
-<item>
-<title>Intruders S01E03</title>
-<imdb>tt3552166</imdb>
-<link><multi>http://movreel.com/m1abifwxj7po&http://www.sockshare.com/file/4322CBB8C2173A79&http://www.firedrive.com/file/9B0FE078259EB330&http://billionuploads.com/y9i4epyb1dby&http://www.sockshare.com/file/66CD533E3600B5B3&http://www.firedrive.com/file/8039DC61BF63CBA5&http://movreel.com/u7ecrm9320ql&http://billionuploads.com/7rh0b9oim50a</link>
-</item>
-
-<item>
-<title>Outlander S01E05</title>
-<imdb>tt3006802</imdb>
-<link><multi>http://movreel.com/uq18277mg56a&http://billionuploads.com/58s7xxm1cys0&http://www.sockshare.com/file/80FEF7C8E4DA8938&http://www.firedrive.com/file/9C4A896E2B8B831A&http://www.sockshare.com/file/AD66A1718FE966DD&http://www.firedrive.com/file/6D9F6F576303149F&http://movreel.com/10361p9zrdmt&http://billionuploads.com/ahzeq8yl9zqs</link>
-</item>
+<dir>
+<name>Intruders (2014)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/277500-4.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/277500-2.jpg</fanart>
+</dir>
 
 

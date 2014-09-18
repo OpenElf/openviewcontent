@@ -3,25 +3,15 @@
 OVHD Source File - friday.ovhd
 
 ################################################################################
+<dir>
+<name>Welcome to Apple Friday</name>
+<imdb>divider_aqua</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>http://best-wallpaper.net/wallpaper/1920x1080/1211/Summer-grass-red-apple-harvest-delicious-fruit_1920x1080.jpg</fanart>
+</dir>
 
 
-<item>
-<title>**** HD items may not work during peak internet times, use SD items ***** Content</title>
-<imdb></imdb>
-<link>*http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png*http://best-wallpaper.net/wallpaper/1920x1080/1211/Summer-grass-red-apple-harvest-delicious-fruit_1920x1080.jpg</link>
-</item>
-
-<item>
-<title>Apple Friday 12th September Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1211/Summer-grass-red-apple-harvest-delicious-fruit_1920x1080.jpg</link>
-</item>
-
-<item>
-<title>Apple Friday 5th September Content</title>
-<imdb></imdb>
-<link>?http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png?http://best-wallpaper.net/wallpaper/1920x1080/1211/Summer-grass-red-apple-harvest-delicious-fruit_1920x1080.jpg</link>
-</item>
 
 
 
