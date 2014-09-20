@@ -1,4 +1,7 @@
+THIS FILE CONTAINS ALL THE POSSIBLE OPTIONS TO USE
 
+
+1.) Search iwol using the title only for a media_url
 
 <dir>
 <title>Da Vincis Demons (2013)</title>
@@ -7,17 +10,5 @@
 <fanart>http://thetvdb.com/banners/fanart/original/259669-17.jpg</fanart>
 </dir>
 
-<dir>
-<title>Extant (2014)</title>
-<link>search</link>
-<thumbnail>http://thetvdb.com/banners/posters/272127-4.jpg</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/272127-6.jpg</fanart>
-</dir>
 
-<dir>
-<title>Keeping Up with the Kardashians (2007)</title>
-<link>search</link>
-<thumbnail>http://thetvdb.com/banners/posters/80725-1.jpg</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/80725-9.jpg</fanart>
-</dir>
 
