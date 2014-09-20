@@ -12,4 +12,37 @@ THIS FILE CONTAINS ALL THE POSSIBLE OPTIONS TO USE for list_items
 </dir>
 
 
+2.) Content dividers at the dir level
+<dir>
+<name>This is a lime content divider</name>
+<imdb>divider_lime</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_banana_tuesday.jpg</fanart>
+</dir>
 
+<dir>
+<name>This is an aqua content divider</name>
+<imdb>divider_aqua</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_banana_tuesday.jpg</fanart>
+</dir>
+
+3.) A collection
+
+<dir>
+<name>The Chronicles of Narnia Collection</name>
+<imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Collections/Narnia%20Collection.ovhd</link>
+<thumbnail>http://image.tmdb.org/t/p/original/ju5DqYM1jJbZPL5Q105ivuq8MXa.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/3dPVWuhk0MpnDkxUeNcYvUmsRTK.jpg</fanart>
+</dir>
+
+4). Playbale trailer, content divider at item level
+
+<item>
+<title>Trailer Season 1 (2013) Content</title>
+<imdb>tt2741602</imdb>
+<link>http://www.youtube.com/watch?v=JGBIimq1I3A</link>
+</item>
