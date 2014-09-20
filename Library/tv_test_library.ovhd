@@ -1,10 +1,11 @@
-THIS FILE CONTAINS ALL THE POSSIBLE OPTIONS TO USE
+THIS FILE CONTAINS ALL THE POSSIBLE OPTIONS TO USE for list_items
 
 
 1.) Search iwol using the title only for a media_url
 
 <dir>
-<title>Da Vincis Demons (2013)</title>
+<name>Da Vincis Demons (2013)</name>
+<imdb>search</imdb>
 <link>search</link>
 <thumbnail>http://thetvdb.com/banners/posters/259669-5.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/259669-17.jpg</fanart>
