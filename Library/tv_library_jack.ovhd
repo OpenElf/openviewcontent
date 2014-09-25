@@ -8,6 +8,14 @@
 </dir>
 
 <dir>
+<name>YouTube Uploads Collection</name>
+<imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/YouTube/jack_uploads.ovhd</link>
+<thumbnail>http://www.thelightingman.net/Images/Social/youtube_logo.png</thumbnail>
+<fanart>http://1080phdwallpapers.com/wp-content/uploads/2012/04/youtube-broadcast-yourself-1080p-hd-wallpaper.jpg</fanart>
+</dir>
+
+<dir>
 <name>Modern Family (2009)</name>
 <imdb>search</imdb>
 <link>search</link>
