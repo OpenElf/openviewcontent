@@ -12,13 +12,7 @@ OVHD Source File - template.ovhd
 </dir>
 
 
-<dir>
-<name>Extant (2014)</name>
-<imdb>search</imdb>
-<link>search</link>
-<thumbnail>http://thetvdb.com/banners/posters/272127-4.jpg</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/272127-6.jpg</fanart>
-</dir>
+
 
 <dir>
 <name>Modern Family season premiere 24th September</name>
@@ -34,6 +28,30 @@ OVHD Source File - template.ovhd
 <link>search</link>
 <thumbnail>http://thetvdb.com/banners/posters/95011-7.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/95011-21.jpg</fanart>
+</dir>
+
+<dir>
+<name>Red Band Society (2014)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/281532-1.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/281532-4.jpg</fanart>
+</dir>
+
+<dir>
+<name>Nackie might enjoy Reign which came out last year</name>
+<imdb>divider_aqua</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_banana_tuesday.jpg</fanart>
+</dir>
+
+<dir>
+<name>Reign (2013)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/269602-5.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/269602-1.jpg</fanart>
 </dir>
 
 
