@@ -101,3 +101,14 @@ NOTE THAT ALL MASH PLAYLISTS ARE NOT HANDLED BY list_items, they are handled in 
 <link><multi>http://movreel.com/32yqunoi3juq&http://billionuploads.com/az86fff9imfv&nil&nil&http://www.firedrive.com/file/B8D93E2D1ADAAB38&http://www.sockshare.com/file/C79B2F2881379C94&http://allmyvideos.net/olds4ewafcsu&http://movreel.com/4oy23wo2ncap</link>
 </item>
 
+10) A YouTube Channel to scrape uploads mode 700
+
+<dir>
+<name>FunForLouis Uploads Collection</name>
+<imdb>YouTubeUploads</imdb>
+<link>http://www.youtube.com/user/FunForLouis</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000053229425/1796702bfaff9876ad1293aea266a76c_400x400.jpeg</thumbnail>
+<fanart>https://tinattchow.files.wordpress.com/2014/07/maxresdefault-2.jpg</fanart>
+</dir>
+
+
