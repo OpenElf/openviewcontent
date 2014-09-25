@@ -45,7 +45,23 @@ OVHD Source File - tuesday.ovhd
 </dir>
 
 <dir>
-<name>Please note that Scorpion will first air on 22 September</name>
+<name>New Series Gotham first air on 22 September</name>
+<imdb>divider_lime</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_banana_tuesday.jpg</fanart>
+</dir>
+
+<dir>
+<name>Gotham (2014)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-5.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-5.jpg</fanart>
+</dir>
+
+<dir>
+<name>New Series Scorpion first air on 22 September</name>
 <imdb>divider_lime</imdb>
 <link>nil</link>
 <thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
