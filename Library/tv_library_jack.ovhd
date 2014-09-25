@@ -1,13 +1,7 @@
-<message>
-<sendseqnum>1</sendseqnum>
-<line1>WHITE LINKS ARE YOUR FIRST SOURCE</line1>
-<line2>[COLOR orange]ORANGE LINKS FOR SECOND SOURCE[/COLOR]</line2>
-<line3>[COLOR aqua]Let me know of any problems[/COLOR]</line3>
-</message>
 
 <dir>
 <name>******** WELCOME HOME JACK AND TOMMY FROM THE BIG APPLE ********</name>
-<imdb>divider_lime</imdb>
+<imdb>divider_aqua</imdb>
 <link>nil</link>
 <thumbnail>https://cdn0.iconfinder.com/data/icons/the-artifacts/122/TC14_ICONS_FINAL-07-512.png</thumbnail>
 <fanart>http://www.hdesktops.com/wp-content/uploads/2014/01/final-fantasy-xiv-720p-hd-wallpaper-1080p-138.jpg</fanart>
@@ -33,14 +27,6 @@
 <name>Running Wild with Bear Grylls</name>
 <imdb>tt3816666</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/running_wild_with_bear_grylls.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name>Suits</name>
-<imdb></imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/suits.ovhd</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
