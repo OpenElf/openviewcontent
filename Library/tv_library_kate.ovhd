@@ -7,6 +7,14 @@
 </dir>
 
 <dir>
+<name>YouTube Uploads Collection</name>
+<imdb></imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/YouTube/uploads.ovhd</link>
+<thumbnail>http://icongal.com/gallery/image/2117/android_r_youtube.png</thumbnail>
+<fanart>http://1080phdwallpapers.com/wp-content/uploads/2012/04/youtube-broadcast-yourself-1080p-hd-wallpaper.jpg</fanart>
+</dir>
+
+<dir>
 <name>The Carrie Diaries (2013)</name>
 <imdb>search</imdb>
 <link>search</link>
