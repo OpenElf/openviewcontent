@@ -24,6 +24,7 @@ NOTE THAT ALL MASH PLAYLISTS ARE NOT HANDLED BY list_items, they are handled in 
 
 
 2.) Content dividers at the dir level
+
 <dir>
 <name>This is a lime content divider</name>
 <imdb>divider_lime</imdb>
@@ -41,6 +42,14 @@ NOTE THAT ALL MASH PLAYLISTS ARE NOT HANDLED BY list_items, they are handled in 
 </dir>
 
 3.) A collection with no meta and no refresh menu
+
+<dir>
+<name>Below: A collection with no and no refresh menu</name>
+<imdb>divider_lime</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_banana_tuesday.jpg</fanart>
+</dir>
 
 <dir>
 <name>The Chronicles of Narnia Collection</name>
@@ -75,6 +84,14 @@ NOTE THAT ALL MASH PLAYLISTS ARE NOT HANDLED BY list_items, they are handled in 
 </item>
 
 5.) A TV dir with meta and refresh info, note dir are ALWAYS LISTED BEFORE items
+
+<dir>
+<name>Below: A TV directory with meta and refresh menu</name>
+<imdb>divider_lime</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_banana_tuesday.jpg</fanart>
+</dir>
 
 <dir>
 <name>Fargo</name>
