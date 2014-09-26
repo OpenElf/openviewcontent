@@ -3,6 +3,15 @@ THIS FILE CONTAINS ALL THE POSSIBLE OPTIONS TO USE for list_items
 NOTE THAT ALL MASH PLAYLISTS ARE NOT HANDLED BY list_items, they are handled in rip.py
 
 
+<dir>
+<name>Below: search iwol using title only for a media url, no meta or refresh menu</name>
+<imdb>divider_lime</imdb>
+<link>nil</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_banana_tuesday.jpg</fanart>
+</dir>
+
+
 1.) Search iwol using the title only for a media_url, no meta or refresh menu
 
 <dir>
@@ -104,11 +113,22 @@ NOTE THAT ALL MASH PLAYLISTS ARE NOT HANDLED BY list_items, they are handled in 
 10) A YouTube Channel to scrape uploads mode 700
 
 <dir>
-<name>FunForLouis Uploads Collection</name>
+<name>A YouTube Uploads Collection</name>
 <imdb>YouTubeUploads</imdb>
 <link>http://www.youtube.com/user/FunForLouis</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000053229425/1796702bfaff9876ad1293aea266a76c_400x400.jpeg</thumbnail>
 <fanart>https://tinattchow.files.wordpress.com/2014/07/maxresdefault-2.jpg</fanart>
 </dir>
+
+11) A directory with no meta
+
+<dir>
+<name>A no meta directory</name>
+<imdb>nometa</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/VIP/kate.ovhd</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_thumb_k.jpg</thumbnail>
+<fanart>http://eswalls.com/wp-content/uploads/2014/06/Sam-Smith-hd-desktop-wallpaper-for-windows-7.jpg</fanart>
+</dir>
+
 
 
