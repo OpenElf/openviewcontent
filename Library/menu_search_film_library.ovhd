@@ -1,7 +1,7 @@
 1) mode 200 maps to iwol.films in default.py
 
 <dir>
-<name>Search Internet for Films</name>
+<name>[COLOR yellow]Search Internet for Films[/COLOR]</name>
 <imdb>200</imdb>
 <link>none</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_search.png</thumbnail>
