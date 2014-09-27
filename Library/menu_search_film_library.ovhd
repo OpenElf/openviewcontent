@@ -1,18 +1,18 @@
-1) search_iwol_films maps to mode 200 iwol.films in list_items
+1) mode 200 maps to iwol.films in default.py
 
 <dir>
 <name>Search Internet for Films</name>
-<imdb>search_iwol_films</imdb>
+<imdb>200</imdb>
 <link>none</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_search.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
-2) rip_mash maps to mode 300 rip.mash in list_items
+2) mode 300 maps to rip.mash in default.py
 
 <dir>
 <name>Latest Releases</name>
-<imdb>rip_mash</imdb>
+<imdb>300</imdb>
 <link>https://raw.githubusercontent.com/mash2k3/One242415/master/Movies/LatestRelease.xml</link>
 <thumbnail>https://cdn0.iconfinder.com/data/icons/shopping-extras-set-2/512/22-512.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
@@ -20,7 +20,7 @@
 
 <dir>
 <name>Best British Films Ever</name>
-<imdb>rip_mash</imdb>
+<imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Collections/bestbritish.xml</link>
 <thumbnail>http://rlv.zcache.co.nz/large_union_jack_png_round_clocks-r54d5574e7647423383eec919e410da0e_fup1s_8byvr_512.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
@@ -28,7 +28,7 @@
 
 <dir>
 <name>The British Connection</name>
-<imdb>rip_mash</imdb>
+<imdb>300</imdb>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/The%20British%20Connection.xml</link>
 <thumbnail>http://rlv.zcache.co.uk/large_union_jack_png_dartboard_with_darts-rdf1f5c27db094725b16639e8e1ca4d44_fomu6_8byvr_512.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
@@ -36,7 +36,7 @@
 
 <dir>
 <name>Movies For Ladies</name>
-<imdb>rip_mash</imdb>
+<imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/janeausten.xml</link>
 <thumbnail>https://cdn4.iconfinder.com/data/icons/rcons-user/32/girl-512.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
@@ -44,7 +44,7 @@
 
 <dir>
 <name>Boxsets</name>
-<imdb>rip_mash</imdb>
+<imdb>300</imdb>
 <link>https://raw.githubusercontent.com/mash2k3/MashUpTNPB/master/720p%20Boxsets%20Directory.xml</link>
 <thumbnail>https://cdn0.iconfinder.com/data/icons/management-line/512/box-512.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
@@ -52,7 +52,7 @@
 
 <dir>
 <name>1080p Films</name>
-<imdb>rip_mash</imdb>
+<imdb>300</imdb>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/1080p%20Movies.xml</link>
 <thumbnail>https://cdn2.iconfinder.com/data/icons/video-quality-2/64/Video_Quality_Cinema_HD-512.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
@@ -60,7 +60,7 @@
 
 <dir>
 <name>Star Trek Collection</name>
-<imdb>rip_mash</imdb>
+<imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Collections/startrek.xml</link>
 <thumbnail>https://cdn1.iconfinder.com/data/icons/hand-gestures/32/gestures-live-long-and-prosper-512.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
@@ -69,7 +69,7 @@
 
 <dir>
 <name>James Bond Collection</name>
-<imdb>rip_mash</imdb>
+<imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Collections/007.xml</link>
 <thumbnail>http://images.rapgenius.com/84aa5871dd186208a2781fa907de3d13.512x385x1.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
@@ -77,7 +77,7 @@
 
 <dir>
 <name>TCM 1940s</name>
-<imdb>rip_mash</imdb>
+<imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Collections/tcm1940.xml</link>
 <thumbnail>http://31.media.tumblr.com/avatar_359394d86ad8_512.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
@@ -85,7 +85,7 @@
 
 <dir>
 <name>Mafia and Gangster Films</name>
-<imdb>rip_mash</imdb>
+<imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/mafiamovies.xml</link>
 <thumbnail>http://a4.mzstatic.com/au/r30/Purple/v4/1d/c5/86/1dc58669-c4f3-81a3-e146-8075af8d52d5/icon512.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
