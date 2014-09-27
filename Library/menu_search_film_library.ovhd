@@ -11,7 +11,7 @@
 2) mode 300 maps to rip.mash in default.py
 
 <dir>
-<name>Latest Releases</name>
+<name>[COLOR aqua]Latest Releases[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw.githubusercontent.com/mash2k3/One242415/master/Movies/LatestRelease.xml</link>
 <thumbnail>https://cdn0.iconfinder.com/data/icons/shopping-extras-set-2/512/22-512.png</thumbnail>
@@ -19,7 +19,7 @@
 </dir>
 
 <dir>
-<name>Best British Films Ever</name>
+<name>[COLOR lime]Best British Films Ever[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Collections/bestbritish.xml</link>
 <thumbnail>http://rlv.zcache.co.nz/large_union_jack_png_round_clocks-r54d5574e7647423383eec919e410da0e_fup1s_8byvr_512.jpg</thumbnail>
@@ -27,7 +27,7 @@
 </dir>
 
 <dir>
-<name>The British Connection</name>
+<name>[COLOR lime]The British Connection[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/The%20British%20Connection.xml</link>
 <thumbnail>http://rlv.zcache.co.uk/large_union_jack_png_dartboard_with_darts-rdf1f5c27db094725b16639e8e1ca4d44_fomu6_8byvr_512.jpg</thumbnail>
@@ -35,7 +35,7 @@
 </dir>
 
 <dir>
-<name>Movies For Ladies</name>
+<name>[COLOR cerise]Movies For Ladies[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/janeausten.xml</link>
 <thumbnail>https://cdn4.iconfinder.com/data/icons/rcons-user/32/girl-512.png</thumbnail>
@@ -43,7 +43,7 @@
 </dir>
 
 <dir>
-<name>Boxsets</name>
+<name>[COLOR lime]Boxsets[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw.githubusercontent.com/mash2k3/MashUpTNPB/master/720p%20Boxsets%20Directory.xml</link>
 <thumbnail>https://cdn0.iconfinder.com/data/icons/management-line/512/box-512.png</thumbnail>
@@ -51,7 +51,7 @@
 </dir>
 
 <dir>
-<name>1080p Films</name>
+<name>[COLOR lime]1080p Films[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/1080p%20Movies.xml</link>
 <thumbnail>https://cdn2.iconfinder.com/data/icons/video-quality-2/64/Video_Quality_Cinema_HD-512.png</thumbnail>
@@ -59,7 +59,7 @@
 </dir>
 
 <dir>
-<name>Star Trek Collection</name>
+<name>[COLOR lime]Star Trek Collection[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Collections/startrek.xml</link>
 <thumbnail>https://cdn1.iconfinder.com/data/icons/hand-gestures/32/gestures-live-long-and-prosper-512.png</thumbnail>
@@ -68,7 +68,7 @@
 
 
 <dir>
-<name>James Bond Collection</name>
+<name>[COLOR lime]James Bond Collection[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Collections/007.xml</link>
 <thumbnail>http://images.rapgenius.com/84aa5871dd186208a2781fa907de3d13.512x385x1.jpg</thumbnail>
@@ -76,7 +76,7 @@
 </dir>
 
 <dir>
-<name>TCM 1940s</name>
+<name>[COLOR lime]TCM 1940s[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Collections/tcm1940.xml</link>
 <thumbnail>http://31.media.tumblr.com/avatar_359394d86ad8_512.png</thumbnail>
@@ -84,7 +84,7 @@
 </dir>
 
 <dir>
-<name>Mafia and Gangster Films</name>
+<name[COLOR lime]>Mafia and Gangster Films[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/mafiamovies.xml</link>
 <thumbnail>http://a4.mzstatic.com/au/r30/Purple/v4/1d/c5/86/1dc58669-c4f3-81a3-e146-8075af8d52d5/icon512.png</thumbnail>
@@ -94,7 +94,7 @@
 3) mode 200 maps to iwol.films in default.py
 
 <dir>
-<name>OpenView HD Library Films</name>
+<name>[COLOR lime]OpenView HD Library Films[/COLOR]</name>
 <imdb>nometa</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Library/film_library.ovhd</link>
 <thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
