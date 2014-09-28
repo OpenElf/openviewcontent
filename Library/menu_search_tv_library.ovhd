@@ -1,0 +1,66 @@
+1) mode 201 maps to iwol.tv
+
+<dir>
+<name>[COLOR yellow]Search Internet for TV Programmes[/COLOR]</name>
+<imdb>201</imdb>
+<link>none</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_search.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+2) mode 300 maps to rip.mash
+
+<dir>
+<name>[COLOR aqua]Latest Releases[/COLOR]</name>
+<imdb>300</imdb>
+<link>https://raw.githubusercontent.com/mash2k3/One242415/master/Movies/LatestRelease.xml</link>
+<thumbnail>http://www2.psd100.com/icon/2013/08/2701/new-icon-0827114017.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+3) mode 500 maps to rip.ovhd_tv
+<dir>
+<name>[COLOR lime]Recent Top Series[/COLOR]</name>
+<imdb>500</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Library/tv_library.ovhd</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR lime]Popular Series[/COLOR]</name>
+<imdb>500</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Library/tv_library_popular.ovhd</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+
+<dir>
+<name>[COLOR lime]Best of British[/COLOR]</name>
+<imdb>300</imdb>
+<link>https://raw.githubusercontent.com/mash2k3/MashUpTNPB/master/Best%20of%20British.xml</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR lime]Stand Up Comedy[/COLOR]</name>
+<imdb>300</imdb>
+<link>https://raw2.github.com/mash2k3/One242415/master/Misc/standupcomedy.xml</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+
+<dir>
+<name>[COLOR lime]OpenView HD Library Programmes[/COLOR]</name>
+<imdb>nometa</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/PROGRAMMES.ovhd</link>
+<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+
+
+
