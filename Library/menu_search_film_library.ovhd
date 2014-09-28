@@ -95,7 +95,7 @@
 
 <dir>
 <name>[COLOR lime]OpenView HD Library Films[/COLOR]</name>
-<imdb>nometa</imdb>
+<imdb>1</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Library/film_library.ovhd</link>
 <thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
