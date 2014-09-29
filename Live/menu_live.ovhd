@@ -1,10 +1,10 @@
 
 
-2) mode 300 maps to rip.mash in default.py
+2) mode 302 maps to rip.mash_live in default.py
 
 <dir>
 <name>[COLOR aqua]United Kingdom[/COLOR]</name>
-<imdb>300</imdb>
+<imdb>302</imdb>
 <link>https://raw.githubusercontent.com/mash2k3/MashUpStreams/master/Countries/united%20kingdom.xml</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
