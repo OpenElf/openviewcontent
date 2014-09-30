@@ -7,6 +7,12 @@ https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/chan
 </item>
 
 <item>
+<title>[COLOR=FFFF4500]BBC News[/COLOR]</title>
+<link>rtmp://hd4.lsops.net/live/ playpath=bbcnews_en_364 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" swfVfy=true live=true</link>
+<thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/bbcnews_en.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=FFFF4500]Bloomberg[/COLOR]</title>
 <link>http://btv-i.akamaihd.net/hls/live/202760-b/btvusa_ios/P1/M12K.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/bloomberg_en.png</thumbnail>
@@ -42,6 +48,14 @@ https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/chan
 <link>rtmp://ndtv.lsops.net/live/ playpath=ndtv_en_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1</link>
 <thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/ndtv_24x7.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=FFFF4500]Sky News[/COLOR]</title>
+<link>http://93.155.252.19:40665/udp/239.1.1.209:4000</link>
+<thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/skynews.png</thumbnail>
+</item>
+
+
 
 
 
