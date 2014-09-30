@@ -9,12 +9,12 @@ https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/chan
 <item>
 <title>[COLOR=FFFF4500]Bloomberg[/COLOR]</title>
 <link>http://btv-i.akamaihd.net/hls/live/202760-b/btvusa_ios/P1/M12K.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/bloomberg_en.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR=FFFF4500]CBC[/COLOR][COLOR=blue] * [/COLOR]</title>
+<title>[COLOR=FFFF4500]CBC[/COLOR]</title>
 <link>rtmp://d.cdn.newschat.tv/edge playpath=canadas_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/canada/</link>
 <thumbnail>https://raw.githubusercontent.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Entertainment.jpg</thumbnail>
 </item>
@@ -26,17 +26,23 @@ https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/chan
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]CNN[/COLOR][COLOR=blue] * [/COLOR]</title>
+<title>[COLOR=FFFF4500]CNN[/COLOR]</title>
 <link>rtmpe://watch.playfooty.tv/live playpath=cnn1569 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=cnn1569&vw=600&vh=430</link>
-<thumbnail>https://raw.githubusercontent.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Entertainment.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/cnn.png</thumbnail>
 </item>
-
-
 
 <item>
-<title>[COLOR lime]CNN world news repo[/COLOR]</title>
+<title>[COLOR=FFFF4500]CNN International[/COLOR]</title>
 <link>http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Entertainment.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/cnn.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=FFFF4500]NDTV 24x7[/COLOR]</title>
+<link>rtmp://ndtv.lsops.net/live/ playpath=ndtv_en_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1</link>
+<thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/ndtv_24x7.png</thumbnail>
+</item>
+
+
 
 
