@@ -1,12 +1,6 @@
 
 
 <item>
-<title>Eurosport 1</title>
-<link>rtmp://31.220.0.195:1935/live playpath=eurs1  swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/ live=true timeout=15 token=%ZZri(nKa@#Z</link>
-<thumbnail>http://3.bp.blogspot.com/-q691zK90t9Y/TlUbSSLiicI/AAAAAAAAAHY/zGGW_LfRuIU/s1600/EuroSport-izle.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR=FFFF4500]Bloomberg[/COLOR]</title>
 <link>http://btv-i.akamaihd.net/hls/live/202760-b/btvusa_ios/P1/M12K.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png</thumbnail>
@@ -53,6 +47,12 @@
 </regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_international_us.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]CNN world news repo[/COLOR]</title>
+<link>http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8link>
+<thumbnail>https://raw.githubusercontent.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Entertainment.jpg</thumbnail>
 </item>
 
 

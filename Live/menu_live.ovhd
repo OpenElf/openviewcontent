@@ -3,6 +3,14 @@
 2) mode 302 maps to rip.mash_live in default.py
 
 <dir>
+<name>[COLOR aqua]News[/COLOR]</name>
+<imdb>302</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Live/live_news.ovhd</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
 <name>[COLOR aqua]United Kingdom[/COLOR]</name>
 <imdb>302</imdb>
 <link>https://raw.githubusercontent.com/mash2k3/MashUpStreams/master/Countries/united%20kingdom.xml</link>
