@@ -18,40 +18,11 @@
 <thumbnail>https://raw.githubusercontent.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Entertainment.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR=FFFF4500]CNN International[/COLOR][COLOR=FF00FF00]  *  [/COLOR].</title>
-<link>rtmp://watch2.ilive.to:1935/edge/_definst_/?xs=$doregex[app] app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
-<regex>
-<name>url</name>
-<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
-<page>http://www.ilive.to/view/57804/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>app</name>
-<expres>\/?xs=([^"]+?)"</expres>
-<page>http://www.ilive.to/view/57804/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
-<page>http://www.ilive.to/view/57804/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_international_us.png</thumbnail>
-</item>
+
 
 <item>
 <title>[COLOR lime]CNN world news repo[/COLOR]</title>
-<link>http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8link>
+<link>http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Entertainment.jpg</thumbnail>
 </item>
 
