@@ -1,4 +1,10 @@
+https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/channels.py
 
+<item>
+<title>[COLOR=FFFF4500]ABC News 24[/COLOR]</title>
+<link>rtmp://cp103653.live.edgefcs.net:1935/live?_fcs_vhost=cp103653.live.edgefcs.net&akmfv=1.8 playpath=international_medium@36382 swfVfy=true live=true</link>
+<thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/abc24.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR=FFFF4500]Bloomberg[/COLOR]</title>
@@ -6,10 +12,17 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png</thumbnail>
 </item>
 
+
 <item>
 <title>[COLOR=FFFF4500]CBC[/COLOR][COLOR=blue] * [/COLOR]</title>
 <link>rtmp://d.cdn.newschat.tv/edge playpath=canadas_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/canada/</link>
 <thumbnail>https://raw.githubusercontent.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Entertainment.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]CNBC[/COLOR]</title>
+<link>http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/cnbc.png</thumbnail>
 </item>
 
 <item>
