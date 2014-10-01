@@ -1,49 +1,15 @@
-https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/channels.py
-
-<item>
-<title>[COLOR=FFFF4500]ABC News 24[/COLOR]</title>
-<link>rtmp://cp103653.live.edgefcs.net:1935/live?_fcs_vhost=cp103653.live.edgefcs.net&akmfv=1.8 playpath=international_medium@36382 swfVfy=true live=true</link>
-<thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/abc24.png</thumbnail>
-</item>
 
 
 <item>
-<title>[COLOR=FFFF4500]Bloomberg[/COLOR]</title>
-<link>http://btv-i.akamaihd.net/hls/live/202760-b/btvusa_ios/P1/M12K.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/bloomberg_en.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=FFFF4500]CBC[/COLOR]</title>
-<link>rtmp://d.cdn.newschat.tv/edge playpath=canadas_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/canada/</link>
-<thumbnail>https://raw.githubusercontent.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Entertainment.jpg</thumbnail>
+<title>[COLOR=FFFF4500]BT Sport 1[/COLOR]</title>
+<link>http://5.135.207.101:22301</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]CNBC[/COLOR]</title>
-<link>http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/cnbc.png</thumbnail>
+<title>[COLOR=FFFF4500]BT Sport 2[/COLOR]</title>
+<link>http://5.135.207.101:22302</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
 </item>
-
-<item>
-<title>[COLOR=FFFF4500]CNN[/COLOR]</title>
-<link>rtmpe://watch.playfooty.tv/live playpath=cnn1569 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=cnn1569&vw=600&vh=430</link>
-<thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/cnn.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]CNN International[/COLOR]</title>
-<link>http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/k3oni/plugin.video.world.news.live/master/resources/images/channels/cnn.png</thumbnail>
-</item>
-
-
-
-
-
-
-
-
 
 
