@@ -38,21 +38,7 @@ OVHD Source File - template.ovhd
 <fanart>http://thetvdb.com/banners/fanart/original/281532-4.jpg</fanart>
 </dir>
 
-<dir>
-<name>Nackie might enjoy Reign which came out last year</name>
-<imdb>divider_lime</imdb>
-<link>nil</link>
-<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_cherry_thursday.jpg</fanart>
-</dir>
 
-<dir>
-<name>Reign (2013)</name>
-<imdb>search</imdb>
-<link>search</link>
-<thumbnail>http://thetvdb.com/banners/posters/269602-5.jpg</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/269602-1.jpg</fanart>
-</dir>
 
 
 
