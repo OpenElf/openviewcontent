@@ -11,7 +11,29 @@ OVHD Source File - monday.ovhd
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_raspberry_monday.jpg</fanart>
 </dir>
 
+<dir>
+<name>Downton Abbey (2010)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/193131-10.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/193131-39.jpg</fanart>
+</dir>
 
+<dir>
+<name>Homeland (2011)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/247897-13.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/247897-27.jpg</fanart>
+</dir>
+
+<dir>
+<name>Madam Secretary (2014)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/281623-2.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/281623-3.jpg</fanart>
+</dir>
 
 <dir>
 <name>Manhattan (2014)</name>
@@ -21,12 +43,15 @@ OVHD Source File - monday.ovhd
 <fanart>http://thetvdb.com/banners/fanart/original/278468-1.jpg</fanart>
 </dir>
 
+
 <dir>
-<name>The Lottery (2014)</name>
+<name>Resurrection US (2014)</name>
 <imdb>search</imdb>
 <link>search</link>
-<thumbnail>http://thetvdb.com/banners/posters/278447-1.jpg</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/278447-3.jpg</fanart>
+<thumbnail>http://thetvdb.com/banners/posters/269650-2.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/269650-3.jpg</fanart>
 </dir>
+
+
 
 
