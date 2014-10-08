@@ -11,7 +11,7 @@
 2) mode 300 maps to rip.mash in default.py
 
 <dir>
-<name>[COLOR aqua]Latest Releases[/COLOR]</name>
+<name>[COLOR lime]Watch Latest Releases[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw.githubusercontent.com/mash2k3/One242415/master/Movies/LatestRelease.xml</link>
 <thumbnail>http://www2.psd100.com/icon/2013/08/2701/new-icon-0827114017.png</thumbnail>
@@ -19,24 +19,7 @@
 </dir>
 
 <dir>
-<name>[COLOR lime]Best British Films Ever[/COLOR]</name>
-<imdb>300</imdb>
-<link>https://raw2.github.com/mash2k3/One242415/master/Collections/bestbritish.xml</link>
-<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
-</dir>
-
-
-<dir>
-<name>[COLOR=FFFF99CC]Movies For Ladies[/COLOR]</name>
-<imdb>300</imdb>
-<link>https://raw2.github.com/mash2k3/One242415/master/Movies/janeausten.xml</link>
-<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
-</dir>
-
-<dir>
-<name>[COLOR lime]Star Trek Collection[/COLOR]</name>
+<name>[COLOR lime]Watch Star Trek Collection[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Collections/startrek.xml</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
@@ -45,7 +28,7 @@
 
 
 <dir>
-<name>[COLOR lime]James Bond Collection[/COLOR]</name>
+<name>[COLOR lime]Watch James Bond Collection[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Collections/007.xml</link>
 <thumbnail>http://images.rapgenius.com/84aa5871dd186208a2781fa907de3d13.512x385x1.jpg</thumbnail>
@@ -53,7 +36,7 @@
 </dir>
 
 <dir>
-<name>[COLOR lime]TCM 1940s[/COLOR]</name>
+<name>[COLOR lime]Watch TCM 1940s[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Collections/tcm1940.xml</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
@@ -61,7 +44,7 @@
 </dir>
 
 <dir>
-<name>[COLOR lime]Mafia and Gangster Films[/COLOR]</name>
+<name>[COLOR lime]Watch Mafia and Gangster Films[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/mafiamovies.xml</link>
 <thumbnail>http://a4.mzstatic.com/au/r30/Purple/v4/1d/c5/86/1dc58669-c4f3-81a3-e146-8075af8d52d5/icon512.png</thumbnail>
@@ -71,7 +54,7 @@
 3) mode 200 maps to iwol.films in default.py
 
 <dir>
-<name>[COLOR lime]OpenView HD Library Films[/COLOR]</name>
+<name>[COLOR lime]Watch Archived Films[/COLOR]</name>
 <imdb>1</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Library/film_library.ovhd</link>
 <thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
