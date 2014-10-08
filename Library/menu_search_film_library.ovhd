@@ -26,34 +26,11 @@
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
-<dir>
-<name>[COLOR lime]The British Connection[/COLOR]</name>
-<imdb>300</imdb>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/The%20British%20Connection.xml</link>
-<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
-</dir>
 
 <dir>
 <name>[COLOR=FFFF99CC]Movies For Ladies[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/janeausten.xml</link>
-<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
-</dir>
-
-<dir>
-<name>[COLOR lime]Boxsets[/COLOR]</name>
-<imdb>300</imdb>
-<link>https://raw.githubusercontent.com/mash2k3/MashUpTNPB/master/720p%20Boxsets%20Directory.xml</link>
-<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
-</dir>
-
-<dir>
-<name>[COLOR lime]1080p Films[/COLOR]</name>
-<imdb>300</imdb>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/1080p%20Movies.xml</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
