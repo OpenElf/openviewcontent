@@ -11,7 +11,7 @@
 2) mode 300 maps to rip.mash
 
 <dir>
-<name>[COLOR aqua]Latest Releases[/COLOR]</name>
+<name>[COLOR lime]Watch Latest Releases[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw.githubusercontent.com/mash2k3/One242415/master/Movies/LatestRelease.xml</link>
 <thumbnail>http://www2.psd100.com/icon/2013/08/2701/new-icon-0827114017.png</thumbnail>
@@ -20,33 +20,23 @@
 
 3) mode 500 maps to rip.ovhd_tv
 <dir>
-<name>[COLOR lime]Recent Top Series[/COLOR]</name>
+<name>[COLOR lime]Watch Top Series[/COLOR]</name>
 <imdb>500</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Library/tv_library.ovhd</link>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Library/top_series.ovhd</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
 <dir>
-<name>[COLOR lime]Popular Series[/COLOR]</name>
-<imdb>500</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Library/tv_library_popular.ovhd</link>
-<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
-</dir>
-
-
-<dir>
-<name>[COLOR lime]Stand Up Comedy[/COLOR]</name>
+<name>[COLOR lime]Watch Stand Up Comedy[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Misc/standupcomedy.xml</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
-
 <dir>
-<name>[COLOR lime]OpenView HD Library Programmes[/COLOR]</name>
+<name>[COLOR lime]Watch Archived Programmes[/COLOR]</name>
 <imdb>1</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/PROGRAMMES.ovhd</link>
 <thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
