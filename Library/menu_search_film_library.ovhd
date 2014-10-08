@@ -51,15 +51,7 @@
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
-3) mode 200 maps to iwol.films in default.py
 
-<dir>
-<name>[COLOR lime]Watch Archived Films[/COLOR]</name>
-<imdb>1</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Library/film_library.ovhd</link>
-<thumbnail>http://www.appleinspires.me/wp-content/uploads/2012/10/analog_colors.512x512-75.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
-</dir>
 
 
 
