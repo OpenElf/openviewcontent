@@ -10,19 +10,5 @@
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
-<dir>
-<name>[COLOR aqua]Entertainment[/COLOR]</name>
-<imdb>302</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Live/live_entertainment.ovhd</link>
-<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
-</dir>
 
-<dir>
-<name>[COLOR aqua]Sport[/COLOR]</name>
-<imdb>302</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Live/live_sports.ovhd</link>
-<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
-</dir>
 
