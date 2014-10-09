@@ -19,6 +19,14 @@
 </dir>
 
 <dir>
+<name>[COLOR lime]Watch 720p Films on YouTube[/COLOR]</name>
+<imdb>900</imdb>
+<link>none</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_720_hd.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
 <name>[COLOR lime]Watch Star Trek Collection[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Collections/startrek.xml</link>
