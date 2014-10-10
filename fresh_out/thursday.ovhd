@@ -12,6 +12,14 @@ OVHD Source File - template.ovhd
 </dir>
 
 <dir>
+<name>Legends (2014)</name>
+<imdb>search</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/265074-3.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/265074-1.jpg</fanart>
+</dir>
+
+<dir>
 <name>Modern Family (2009)</name>
 <imdb>search</imdb>
 <link>search</link>
