@@ -1,0 +1,25 @@
+<dir>
+<name>[COLOR orange]Featured Films[/COLOR]</name>
+<imdb>15</imdb>
+<link>none</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_fresh_films.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR lime]Top Six Today[/COLOR]</name>
+<imdb>10</imdb>
+<link>none</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_fresh_films.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Hot 30[/COLOR]</name>
+<imdb>400</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/fresh_out/hot_30.ovhd</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_fresh_films.jpg</fanart>
+</dir>
+
+
