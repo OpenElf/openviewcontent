@@ -10,13 +10,7 @@
 
 2) mode 300 maps to rip.mash in default.py
 
-<dir>
-<name>[COLOR lime]Watch Latest Releases[/COLOR]</name>
-<imdb>300</imdb>
-<link>https://raw.githubusercontent.com/mash2k3/One242415/master/Movies/LatestRelease.xml</link>
-<thumbnail>http://www2.psd100.com/icon/2013/08/2701/new-icon-0827114017.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
-</dir>
+
 
 <dir>
 <name>[COLOR lime]Watch 720p YT Films[/COLOR]</name>
