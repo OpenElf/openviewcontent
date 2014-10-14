@@ -22,6 +22,14 @@
 </dir>
 
 <dir>
+<name>[COLOR lime]Watch British Stand Up Comedy[/COLOR]</name>
+<imdb>300</imdb>
+<link>https://raw2.github.com/mash2k3/One242415/master/Misc/standupUK.xml</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
 <name>[COLOR lime]Watch Stand Up Comedy[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/mash2k3/One242415/master/Misc/standupcomedy.xml</link>

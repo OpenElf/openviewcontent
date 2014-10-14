@@ -13,18 +13,10 @@
 
 
 <dir>
-<name>[COLOR lime]Watch 720p YT Films[/COLOR]</name>
+<name>[COLOR lime]Watch 720p YouTube Films[/COLOR]</name>
 <imdb>900</imdb>
 <link>none</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_720_hd.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
-</dir>
-
-<dir>
-<name>[COLOR lime]Watch 1080p YT Films[/COLOR][COLOR red] in development [/COLOR]</name>
-<imdb>950</imdb>
-<link>none</link>
-<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_full_hd.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
