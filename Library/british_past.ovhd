@@ -1,11 +1,12 @@
-This file is handled by watchseries mode 800
+This file is used by mode 6 and becomes driver for watchseries mode 800
+
 
 <dir>
-<title>The Inbetweeners (2008)</title>
+<name>[COLOR aqua]The Inbetweeners (2008) [/COLOR][COLOR red]work in progress[/COLOR]</name>
+<imdb>800</imdb>
 <link>http://watchseries.ag/serie/inbetweeners</link>
 <thumbnail>http://thetvdb.com/banners/posters/81950-4.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/81950-4.jpg</fanart>
 </dir>
-
 
 
