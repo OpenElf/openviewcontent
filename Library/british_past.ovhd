@@ -1,11 +1,13 @@
 This file is included mode 9 and becomes driver for watchseries mode 800
 
-the name is and date from tvdb
+the name is and date are used bt the TVDB for TV shows
+
+
 the link is found on the website, i.e http://watchseries.ag/serie/absolutely_fabulous
 
 <dir>
 <name>Absolutely Fabulous (1992)</name>
-<imdb>800</imdb>
+<imdb>800?tt0105929</imdb>
 <link>http://watchseries.ag/serie/absolutely_fabulous</link>
 <thumbnail>http://thetvdb.com/banners/posters/73314-3.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/73314-2.jpg</fanart>
