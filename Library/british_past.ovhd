@@ -13,11 +13,27 @@ the link is found on the website, i.e http://watchseries.ag/serie/absolutely_fab
 </dir>
 
 <dir>
+<name>Mr. Bean (1990)</name>
+<imdb>800?/tt0096657</imdb>
+<link>http://watchseries.ag/serie/mr._bean</link>
+<thumbnail>http://thetvdb.com/banners/posters/76316-3.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/76316-5.jpg</fanart>
+</dir>
+
+<dir>
 <name>Doctor Who (2005)</name>
 <imdb>800?tt0436992</imdb>
 <link>http://watchseries.ag/serie/doctor_who</link>
 <thumbnail>http://thetvdb.com/banners/posters/78804-29.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/78804-100.jpg</fanart>
+</dir>
+
+<dir>
+<name>Father Ted (1995)</name>
+<imdb>800?tt0111958</imdb>
+<link>http://watchseries.ag/serie/father_ted</link>
+<thumbnail>http://thetvdb.com/banners/posters/75842-1.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/75842-1.jpg</fanart>
 </dir>
 
 <dir>
@@ -42,6 +58,14 @@ the link is found on the website, i.e http://watchseries.ag/serie/absolutely_fab
 <link>http://watchseries.ag/serie/little_britain</link>
 <thumbnail>http://thetvdb.com/banners/posters/72135-2.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/72135-6.jpg</fanart>
+</dir>
+
+<dir>
+<name>The Office (2001)</name>
+<imdb>800?tt0290978</imdb>
+<link>http://watchseries.ag/serie/office_uk</link>
+<thumbnail>http://thetvdb.com/banners/posters/78107-2.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/78107-12.jpg</fanart>
 </dir>
 
 <dir>
