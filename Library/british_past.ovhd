@@ -1,7 +1,6 @@
 This file is included mode 9 and becomes driver for watchseries mode 800
 
-sometimes we need the imdb number for example 800?tt0105929
-
+We need the imdb number after the mode number for example 800?tt0105929
 
 the link is found on the website, i.e http://watchseries.ag/serie/absolutely_fabulous
 
@@ -15,7 +14,7 @@ the link is found on the website, i.e http://watchseries.ag/serie/absolutely_fab
 
 <dir>
 <name>The Inbetweeners (2008)</name>
-<imdb>800</imdb>
+<imdb>800?tt1220617</imdb>
 <link>http://watchseries.ag/serie/inbetweeners</link>
 <thumbnail>http://thetvdb.com/banners/posters/81950-4.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/81950-4.jpg</fanart>
