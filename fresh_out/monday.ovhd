@@ -5,7 +5,7 @@ OVHD Source File - monday.ovhd
 ################################################################################
 <dir>
 <name>Welcome to Raspberry Monday</name>
-<imdb>divider_aqua</imdb>
+<imdb>6</imdb>
 <link>nil</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_raspberry_monday.jpg</fanart>
@@ -13,7 +13,7 @@ OVHD Source File - monday.ovhd
 
 <dir>
 <name>Downton Abbey (2010)</name>
-<imdb>search</imdb>
+<imdb>6</imdb>
 <link>search</link>
 <thumbnail>http://thetvdb.com/banners/posters/193131-10.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/193131-39.jpg</fanart>
@@ -21,7 +21,7 @@ OVHD Source File - monday.ovhd
 
 <dir>
 <name>Homeland (2011)</name>
-<imdb>search</imdb>
+<imdb>6</imdb>
 <link>search</link>
 <thumbnail>http://thetvdb.com/banners/posters/247897-13.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/247897-27.jpg</fanart>
@@ -29,7 +29,7 @@ OVHD Source File - monday.ovhd
 
 <dir>
 <name>Madam Secretary (2014)</name>
-<imdb>search</imdb>
+<imdb>6</imdb>
 <link>search</link>
 <thumbnail>http://thetvdb.com/banners/posters/281623-2.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/281623-3.jpg</fanart>
@@ -37,7 +37,7 @@ OVHD Source File - monday.ovhd
 
 <dir>
 <name>Manhattan (2014)</name>
-<imdb>search</imdb>
+<imdb>6</imdb>
 <link>search</link>
 <thumbnail>http://thetvdb.com/banners/posters/278468-5.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/278468-1.jpg</fanart>
@@ -46,7 +46,7 @@ OVHD Source File - monday.ovhd
 
 <dir>
 <name>Resurrection US (2014)</name>
-<imdb>search</imdb>
+<imdb>6</imdb>
 <link>search</link>
 <thumbnail>http://thetvdb.com/banners/posters/269650-2.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/269650-3.jpg</fanart>

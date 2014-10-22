@@ -5,7 +5,7 @@ OVHD Source File - sunday.ovhd
 ################################################################################
 <dir>
 <name>Welcome to Sundae Sunday</name>
-<imdb>divider_aqua</imdb>
+<imdb>6</imdb>
 <link>nil</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_sundae_sunday.jpg</fanart>
@@ -13,7 +13,7 @@ OVHD Source File - sunday.ovhd
 
 <dir>
 <name>Doctor Who</name>
-<imdb>tt0436992</imdb>
+<imdb>800?tt0436992</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/doctor_who_season8.ovhd</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -21,7 +21,7 @@ OVHD Source File - sunday.ovhd
 
 <dir>
 <name>Intruders (2014)</name>
-<imdb>search</imdb>
+<imdb>6</imdb>
 <link>search</link>
 <thumbnail>http://thetvdb.com/banners/posters/277500-4.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/277500-2.jpg</fanart>

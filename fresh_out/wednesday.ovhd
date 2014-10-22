@@ -5,7 +5,7 @@ OVHD Source File - wednesday.ovhd
 ################################################################################
 <dir>
 <name>Welcome to Orange Wednesday</name>
-<imdb>divider_aqua</imdb>
+<imdb>6</imdb>
 <link>nil</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_orange_wednesday.jpg</fanart>
@@ -13,7 +13,7 @@ OVHD Source File - wednesday.ovhd
 
 <dir>
 <name>The Flash (2014)</name>
-<imdb>search</imdb>
+<imdb>6</imdb>
 <link>search</link>
 <thumbnail>http://thetvdb.com/banners/posters/279121-5.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/279121-6.jpg</fanart>
@@ -21,7 +21,7 @@ OVHD Source File - wednesday.ovhd
 
 <dir>
 <name>Happyland (2014)</name>
-<imdb>search</imdb>
+<imdb>6</imdb>
 <link>search</link>
 <thumbnail>http://thetvdb.com/banners/posters/278446-2.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/278446-1.jpg</fanart>
