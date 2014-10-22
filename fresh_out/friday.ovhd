@@ -4,7 +4,7 @@ OVHD Source File - friday.ovhd
 
 ################################################################################
 <dir>
-<name>Welcome to Apple Friday</name>
+<name>[COLOR aqua]Welcome to Apple Friday[/COLOR]</name>
 <imdb>6</imdb>
 <link>nil</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>

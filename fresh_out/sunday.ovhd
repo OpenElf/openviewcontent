@@ -4,7 +4,7 @@ OVHD Source File - sunday.ovhd
 
 ################################################################################
 <dir>
-<name>Welcome to Sundae Sunday</name>
+<name>[COLOR aqua]Welcome to Sundae Sunday[/COLOR]</name>
 <imdb>6</imdb>
 <link>nil</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
@@ -21,7 +21,7 @@ OVHD Source File - sunday.ovhd
 
 <dir>
 <name>Intruders (2014)</name>
-<imdb>510</imdb>
+<imdb>202</imdb>
 <link>search</link>
 <thumbnail>http://thetvdb.com/banners/posters/277500-4.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/277500-2.jpg</fanart>

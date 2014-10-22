@@ -4,7 +4,7 @@ OVHD Source File - template.ovhd
 
 ################################################################################
 <dir>
-<name>Welcome to Cherry Thursday</name>
+<name>[COLOR aqua]Welcome to Cherry Thursday[/COLOR]</name>
 <imdb>6</imdb>
 <link>nil</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>

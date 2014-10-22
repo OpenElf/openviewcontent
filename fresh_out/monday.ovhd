@@ -4,7 +4,7 @@ OVHD Source File - monday.ovhd
 
 ################################################################################
 <dir>
-<name>Welcome to Raspberry Monday</name>
+<name>[COLOR aqua]Welcome to Raspberry Monday[/COLOR]</name>
 <imdb>6</imdb>
 <link>nil</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
