@@ -28,6 +28,14 @@ OVHD Source File - template.ovhd
 </dir>
 
 <dir>
+<name>Stalker (2014)</name>
+<imdb>510</imdb>
+<link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/281697-3.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/281697-4.jpg</fanart>
+</dir>
+
+<dir>
 <name>Red Band Society (2014)</name>
 <imdb>510</imdb>
 <link>search</link>
