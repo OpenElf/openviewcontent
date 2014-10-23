@@ -12,11 +12,11 @@ OVHD Source File - sunday.ovhd
 </dir>
 
 <dir>
-<name>Doctor Who</name>
-<imdb>1?tt0436992</imdb>
-<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Programmes/doctor_who_season8.ovhd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<name>Doctor Who (2005)</name>
+<imdb>800?tt0436992</imdb>
+<link>http://watchseries.ag/serie/doctor_who</link>
+<thumbnail>http://thetvdb.com/banners/posters/78804-29.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/78804-100.jpg</fanart>
 </dir>
 
 <dir>
