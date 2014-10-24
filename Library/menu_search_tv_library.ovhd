@@ -1,4 +1,3 @@
-1) mode 201 maps to iwol.tv
 
 <dir>
 <name>[COLOR yellow]Search Internet for TV Programmes[/COLOR]</name>
@@ -8,11 +7,6 @@
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
-2) mode 300 maps to rip.mash
-
-
-
-3) mode 500 maps to rip.ovhd_tv
 <dir>
 <name>[COLOR lime]Watch Top Series[/COLOR]</name>
 <imdb>6</imdb>
@@ -45,11 +39,18 @@
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
-
 <dir>
 <name>[COLOR lime]Watch British Past [/COLOR][COLOR red]work in progress[/COLOR]</name>
 <imdb>9</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Library/british_past.ovhd</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR lime]Watch Mediocre Series[/COLOR]</name>
+<imdb>6</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Library/mediocre_series.ovhd</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
