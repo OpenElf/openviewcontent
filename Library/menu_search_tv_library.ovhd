@@ -15,8 +15,16 @@
 3) mode 500 maps to rip.ovhd_tv
 <dir>
 <name>[COLOR lime]Watch Top Series[/COLOR]</name>
-<imdb>500</imdb>
+<imdb>6</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Library/top_series.ovhd</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR lime]Watch Recent British Series[/COLOR]</name>
+<imdb>6</imdb>
+<link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Library/recent_british_series.ovhd</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
@@ -37,7 +45,6 @@
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
-4) mode 6 maps to make_menu_directory_from_ovhd_file(url)
 
 <dir>
 <name>[COLOR lime]Watch British Past [/COLOR][COLOR red]work in progress[/COLOR]</name>
