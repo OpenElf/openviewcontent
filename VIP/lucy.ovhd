@@ -17,14 +17,6 @@
 </dir>
 
 <dir>
-<name>Happyland (2014)</name>
-<imdb>510</imdb>
-<link>search</link>
-<thumbnail>http://thetvdb.com/banners/posters/278446-2.jpg</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/278446-1.jpg</fanart>
-</dir>
-
-<dir>
 <name>YouTube Uploads Collection</name>
 <imdb>6</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/YouTube/lucy_uploads.ovhd</link>
@@ -41,9 +33,25 @@
 </dir>
 
 <dir>
+<name>[COLOR aqua]************  THERE ARE TWO DIFFERNET SOURCES FOR KARDASHIANS ************ [/COLOR]</name>
+<imdb>6</imdb>
+<link>nil</link>
+<thumbnail>https://cdn0.iconfinder.com/data/icons/the-artifacts/122/TC14_ICONS_FINAL-07-512.png</thumbnail>
+<fanart>http://www.hdesktops.com/wp-content/uploads/2014/01/final-fantasy-xiv-720p-hd-wallpaper-1080p-138.jpg</fanart>
+</dir>
+
+<dir>
 <name>Keeping Up with the Kardashians (2007)</name>
 <imdb>510?tt1086761</imdb>
 <link>search</link>
+<thumbnail>http://thetvdb.com/banners/posters/80725-1.jpg</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/80725-9.jpg</fanart>
+</dir>
+
+<dir>
+<name>Keeping Up with the Kardashians (2007)</name>
+<imdb>800?tt1086761</imdb>
+<link>http://watchseries.ag/serie/keeping_up_with_the_kardashians</link>
 <thumbnail>http://thetvdb.com/banners/posters/80725-1.jpg</thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/80725-9.jpg</fanart>
 </dir>
