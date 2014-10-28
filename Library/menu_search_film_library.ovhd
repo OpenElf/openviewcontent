@@ -23,16 +23,15 @@
 <dir>
 <name>[COLOR lime]Watch Star Trek Collection[/COLOR]</name>
 <imdb>300</imdb>
-<link>https://raw2.github.com/One242415/One242415/master/Collections/startrek.xml</link>
+<link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/startrek.xml</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
-
 <dir>
 <name>[COLOR lime]Watch James Bond Collection[/COLOR]</name>
 <imdb>300</imdb>
-<link>https://raw2.github.com/One242415/One242415/master/Collections/007.xml</link>
+<link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/007.xml</link>
 <thumbnail>http://images.rapgenius.com/84aa5871dd186208a2781fa907de3d13.512x385x1.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
