@@ -10,7 +10,21 @@
 
 2) mode 300 maps to rip.mash in default.py
 
+<dir>
+<name>[COLOR lime]Watch SciFi Collection[/COLOR]</name>
+<imdb>300</imdb>
+<link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/SciFi.xml</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
 
+<dir>
+<name>[COLOR lime]Watch Football Collection[/COLOR]</name>
+<imdb>300</imdb>
+<link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/football.xml</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
 
 <dir>
 <name>[COLOR lime]Watch 720p YouTube Films[/COLOR]</name>

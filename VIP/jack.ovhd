@@ -8,6 +8,14 @@
 </dir>
 
 <dir>
+<name>[COLOR lime]Watch Football Collection[/COLOR]</name>
+<imdb>300</imdb>
+<link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/football.xml</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>http://www.wallpaperpics.net/wallpapers/2013/04/Liverpool-Never-Walk-Alone-1080x1920.jpg</fanart>
+</dir>
+
+<dir>
 <name>YouTube Uploads Collection</name>
 <imdb>6</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/YouTube/jack_uploads.ovhd</link>
