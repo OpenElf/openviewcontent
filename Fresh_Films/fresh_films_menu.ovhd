@@ -1,5 +1,5 @@
 <dir>
-<name>[COLOR orange]Watch Featured Films[/COLOR]</name>
+<name>[COLOR orange]Watch Internet Released Top Six Today[/COLOR]</name>
 <imdb>15</imdb>
 <link>none</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
@@ -7,7 +7,7 @@
 </dir>
 
 <dir>
-<name>[COLOR lime]Watch Top Six Today[/COLOR]</name>
+<name>[COLOR lime]Watch Internet Most Popular Top Six Today[/COLOR]</name>
 <imdb>10</imdb>
 <link>none</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
@@ -15,7 +15,7 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua]Watch New Releases[/COLOR]</name>
+<name>[COLOR aqua]Watch Internet Released This Month[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw.githubusercontent.com/One242415/One242415/master/Movies/LatestRelease.xml</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
@@ -23,7 +23,7 @@
 </dir>
 
 <dir>
-<name>[COLOR yellow]Watch Selected 30[/COLOR]</name>
+<name>[COLOR yellow]Watch OpenView HD Gold Standard[/COLOR]</name>
 <imdb>6</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Fresh_Films/hot_30.ovhd</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
