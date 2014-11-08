@@ -2,7 +2,7 @@
 <name>[COLOR orange]Watch Featured Films[/COLOR]</name>
 <imdb>15</imdb>
 <link>none</link>
-<thumbnail>https://cdn3.iconfinder.com/data/icons/3d-glossy/512/star-512.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_fresh_films.jpg</fanart>
 </dir>
 
@@ -10,7 +10,7 @@
 <name>[COLOR lime]Watch Top Six Today[/COLOR]</name>
 <imdb>10</imdb>
 <link>none</link>
-<thumbnail>https://cdn1.iconfinder.com/data/icons/smallicons-controls/32/614353-6-512.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_fresh_films.jpg</fanart>
 </dir>
 
@@ -18,7 +18,7 @@
 <name>[COLOR aqua]Watch New Releases[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw.githubusercontent.com/One242415/One242415/master/Movies/LatestRelease.xml</link>
-<thumbnail>http://www2.psd100.com/icon/2013/08/2701/new-icon-0827114017.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_fresh_films.jpg</fanart>
 </dir>
 
@@ -26,7 +26,7 @@
 <name>[COLOR yellow]Watch Selected 30[/COLOR]</name>
 <imdb>6</imdb>
 <link>https://raw.githubusercontent.com/OpenElf/openviewcontent/master/Fresh_Films/hot_30.ovhd</link>
-<thumbnail>https://cdn3.iconfinder.com/data/icons/circles/512/flat_4-512.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_fresh_films.jpg</fanart>
 </dir>
 
