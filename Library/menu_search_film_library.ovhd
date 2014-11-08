@@ -24,7 +24,7 @@
 <name>[COLOR lime]Watch Star Trek Collection[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/startrek.xml</link>
-<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
@@ -40,7 +40,7 @@
 <name>[COLOR lime]Watch TCM 1940s[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw2.github.com/One242415/One242415/master/Collections/tcm1940.xml</link>
-<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_6colour.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
