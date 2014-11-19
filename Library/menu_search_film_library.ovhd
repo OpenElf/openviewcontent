@@ -42,6 +42,30 @@
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
+<dir>
+<name>[COLOR lime]Watch Highly Rated Internet Films[/COLOR]</name>
+<imdb>2011</imdb>
+<link>/movies/rating/1</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR lime]Watch Recently Released Internet Films[/COLOR]</name>
+<imdb>2011</imdb>
+<link>/movies/release/1</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR lime]Watch This Month's Internet Films[/COLOR]</name>
+<imdb>2011</imdb>
+<link>/movies/added/1</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
 
 <dir>
 <name>[COLOR lime]Watch Football Collection[/COLOR]</name>
