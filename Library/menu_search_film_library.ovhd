@@ -1,7 +1,7 @@
 
 
 <dir>
-<name>[COLOR aqua]First Choice Search Internet for Films[/COLOR]</name>
+<name>[COLOR aqua][B]First Choice Search Internet for Films[/B][/COLOR]</name>
 <imdb>2000</imdb>
 <link>none</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_search.png</thumbnail>
@@ -17,7 +17,7 @@
 1) mode 200 maps to iwol.films in default.py
 
 <dir>
-<name>[COLOR yellow]Second Choice Search Internet for Films[/COLOR]</name>
+<name>[COLOR aqua]Second Choice Search Internet for Films[/COLOR]</name>
 <imdb>200</imdb>
 <link>none</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_search.png</thumbnail>
@@ -27,7 +27,7 @@
 2) mode 300 maps to rip.mash in default.py
 
 <dir>
-<name>[COLOR lime]Watch Christmas Collection[/COLOR]</name>
+<name>[COLOR=FFF70ADC]Watch Christmas Collection[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw.github.com/One242415/One242415/master/Collections/xmas.xml</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
@@ -68,7 +68,7 @@
 
 
 <dir>
-<name>[COLOR lime]Watch Football Collection[/COLOR]</name>
+<name>[COLOR orange]Watch Football Collection[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/football.xml</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
@@ -76,7 +76,7 @@
 </dir>
 
 <dir>
-<name>[COLOR lime]Watch 720p YouTube Films[/COLOR]</name>
+<name>[COLOR orange]Watch 720p YouTube Films[/COLOR]</name>
 <imdb>900</imdb>
 <link>none</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
@@ -84,7 +84,7 @@
 </dir>
 
 <dir>
-<name>[COLOR lime]Watch Star Trek Collection[/COLOR]</name>
+<name>[COLOR orange]Watch Star Trek Collection[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/startrek.xml</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
@@ -92,7 +92,7 @@
 </dir>
 
 <dir>
-<name>[COLOR lime]Watch James Bond Collection[/COLOR]</name>
+<name>[COLOR orange]Watch James Bond Collection[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/007.xml</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
@@ -100,7 +100,7 @@
 </dir>
 
 <dir>
-<name>[COLOR lime]Watch TCM 1940s[/COLOR]</name>
+<name>[COLOR blue]Watch TCM 1940s[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/tcm1940.xml</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
