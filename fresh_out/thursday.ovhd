@@ -11,13 +11,6 @@ OVHD Source File - template.ovhd
 <fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_cherry_thursday.jpg</fanart>
 </dir>
 
-<dir>
-<name>Legends (2014)</name>
-<imdb>510?tt2402137</imdb>
-<link>search</link>
-<thumbnail>http://thetvdb.com/banners/posters/265074-3.jpg</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/265074-1.jpg</fanart>
-</dir>
 
 <dir>
 <name>Modern Family (2009)</name>
@@ -27,13 +20,7 @@ OVHD Source File - template.ovhd
 <fanart>http://thetvdb.com/banners/fanart/original/95011-21.jpg</fanart>
 </dir>
 
-<dir>
-<name>Stalker (2014)</name>
-<imdb>510?tt3560094</imdb>
-<link>search</link>
-<thumbnail>http://thetvdb.com/banners/posters/281697-3.jpg</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/281697-4.jpg</fanart>
-</dir>
+
 
 
 
