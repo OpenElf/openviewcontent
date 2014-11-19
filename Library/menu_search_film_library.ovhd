@@ -1,7 +1,23 @@
+
+
+<dir>
+<name>[COLOR aqua]First Choice Search Internet for Films[/COLOR]</name>
+<imdb>2000</imdb>
+<link>none</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_search.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+
+
+
+
+
+
 1) mode 200 maps to iwol.films in default.py
 
 <dir>
-<name>[COLOR yellow]Search Internet for Films[/COLOR]</name>
+<name>[COLOR yellow]Second Choice Search Internet for Films[/COLOR]</name>
 <imdb>200</imdb>
 <link>none</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_search.png</thumbnail>
