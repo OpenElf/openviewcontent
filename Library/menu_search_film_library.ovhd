@@ -35,6 +35,15 @@
 </dir>
 
 <dir>
+<name>[COLOR lime]Watch Popular Internet Films[/COLOR]</name>
+<imdb>2011</imdb>
+<link>/movies/popular/1</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+
+<dir>
 <name>[COLOR lime]Watch Football Collection[/COLOR]</name>
 <imdb>300</imdb>
 <link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/football.xml</link>
