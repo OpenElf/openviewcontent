@@ -15,11 +15,11 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua]Watch Internet Released This Month[/COLOR]</name>
-<imdb>300</imdb>
-<link>https://raw.githubusercontent.com/One242415/One242415/master/Movies/LatestRelease.xml</link>
+<name>[COLOR qua]Watch This Month's Internet Films[/COLOR]</name>
+<imdb>2011</imdb>
+<link>/movies/added/1</link>
 <thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_fresh_films.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
 </dir>
 
 <dir>
