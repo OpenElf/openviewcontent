@@ -1,0 +1,116 @@
+
+
+<dir>
+<name>[COLOR aqua][B]First Choice Search Internet for Films[/B][/COLOR]</name>
+<imdb>2000</imdb>
+<link>none</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_search.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+
+
+
+
+
+
+1) mode 200 maps to iwol.films in default.py
+
+<dir>
+<name>[COLOR aqua]Second Choice Search Internet for Films[/COLOR]</name>
+<imdb>200</imdb>
+<link>none</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_icon_search.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+2) mode 300 maps to rip.mash in default.py
+
+<dir>
+<name>[COLOR=FFF70ADC]Watch Christmas Collection[/COLOR]</name>
+<imdb>300</imdb>
+<link>https://raw.github.com/One242415/One242415/master/Collections/xmas.xml</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR lime]Watch Popular Internet Films[/COLOR]</name>
+<imdb>2011</imdb>
+<link>/movies/popular/1</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR lime]Watch Highly Rated Internet Films[/COLOR]</name>
+<imdb>2011</imdb>
+<link>/movies/rating/1</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR lime]Watch Recently Released Internet Films[/COLOR]</name>
+<imdb>2011</imdb>
+<link>/movies/release/1</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR lime]Watch This Month's Internet Films[/COLOR]</name>
+<imdb>2011</imdb>
+<link>/movies/added/1</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+
+<dir>
+<name>[COLOR orange]Watch Football Collection[/COLOR]</name>
+<imdb>300</imdb>
+<link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/football.xml</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR orange]Watch 720p YouTube Films[/COLOR]</name>
+<imdb>900</imdb>
+<link>none</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR orange]Watch Star Trek Collection[/COLOR]</name>
+<imdb>300</imdb>
+<link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/startrek.xml</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR orange]Watch James Bond Collection[/COLOR]</name>
+<imdb>300</imdb>
+<link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/007.xml</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR blue]Watch TCM 1940s[/COLOR]</name>
+<imdb>300</imdb>
+<link>https://raw.githubusercontent.com/One242415/One242415/master/Collections/tcm1940.xml</link>
+<thumbnail>https://raw.githubusercontent.com/OpenElf/openviewimages/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/OpenElf/openviewimages/master/ovhd_library.jpg</fanart>
+</dir>
+
+
+
+
+
+
+
+
